@@ -1,7 +1,7 @@
 ## Context
 
 * Many knowledge bases (KB) are stored using a graph format. 
-* You will require at least some basic knowledge in retrieving information from such a knowledge base via SPARQL (additionally, KB-based approaches will be used in the used QA framework). SPARQL is the common query language for querying fact-based KBs.act-based KBs.
+* You will require at least some basic knowledge in retrieving information from such a knowledge base via SPARQL (additionally, KB-based approaches will be used in the used QA framework). SPARQL is the common query language for querying fact-based KBs.
 
 ## Learning Objectives
 
