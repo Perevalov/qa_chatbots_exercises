@@ -19,9 +19,17 @@ WHERE {
 **SPARQL 1 Wikidata**
 
 ```
-SELECT DISTINCT ?dev
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT DISTINCT ?dev ?devLabel
 WHERE {
     wd:Q40984 wdt:P178 ?dev . # Skype - developer - ?
+  
+  	# Uncomment to get English labels
+  	# ?dev rdfs:label ?devLabel .
+  	# FILTER(LANG(?devLabel) = "en").
 }
 ```
 
@@ -46,10 +54,18 @@ WHERE {
 **SPARQL 2 Wikidata**
 
 ```
-SELECT DISTINCT ?city
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT DISTINCT ?city ?cityLabel
 WHERE {
     ?city wdt:P17 wd:Q837 . # object based in Nepal
     ?city wdt:P31 wd:Q515 . # type City
+  	
+  	# Uncomment to get English labels
+  	# ?city rdfs:label ?cityLabel .
+  	# FILTER(LANG(?cityLabel) = "en") .
 }
 ```
 
@@ -74,9 +90,17 @@ WHERE {
 **SPARQL 3 Wikidata**
 
 ```
-SELECT DISTINCT ?timeZone
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT DISTINCT ?timeZone ?timeZoneLabel
 WHERE {
     wd:Q11746 wdt:P421 ?timeZone . # looking for a time zone
+  
+  	# Uncomment to get English labels
+  	# ?timeZone rdfs:label ?timeZoneLabel .
+  	# FILTER(LANG(?timeZoneLabel) = "en").
 }
 ```
 
@@ -101,6 +125,9 @@ WHERE {
 **SPARQL 4 Wikidata**
 
 ```
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
 ASK
 WHERE {
     wd:Q76 wdt:P19 wd:Q782 .
