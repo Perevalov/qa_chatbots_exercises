@@ -15,7 +15,7 @@ The variants are available in this GitHub repository. Also, in the repository, y
 
 ## Submission
 
-Please, submit your results via e-mail to aleksandr.perevalov@hs-anhalt.de. Please, write QUAtsCH 20/21 Exercise 1 in the subject of your e-mail. Another way of submission is just to show your results on the exercise. If you submit your results via e-mail, please, check the submission_1.zip file in the GitHub repository as an example ("_1" postfix corresponds to the variant).
+Please, submit your results via e-mail to aleksandr.perevalov@hs-anhalt.de. Please, write **QUAtsCH 20/21 Exercise 1** in the subject of your e-mail. Another way of submission is just to show your results on the exercise. If you submit your results via e-mail, please, check the submission_1.zip file in the GitHub repository as an example ("_1" postfix corresponds to the variant).
 
 You also have an opportunity to show your results on the exercise. In this case you don't need to prepare submission file.
 
