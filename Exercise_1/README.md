@@ -9,7 +9,7 @@
 
 ## Task
 
-Depending on your exercise variant (see Google Sheets table “Exercise status”) manually write SPARQL queries for the corresponding questions.
+Depending on your exercise variant (see Google Sheets table [“Exercise status”](https://docs.google.com/spreadsheets/d/1mwhJmxYYV9TdWdsoFxHXcVjaUN3n-aejQuyXkVlIzmc/edit?usp=sharing)) manually write SPARQL queries for the corresponding questions.
 
 The variants are available in this GitHub repository. Also, in the repository, you can find the example of the question-SPARQL query pairs.
 
