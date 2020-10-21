@@ -34,7 +34,11 @@ The format of the script output is a JSON file with the following structure:
 ]
 ```
 
-Analyze manually the difference between `named_entities` and `named_entities_preprocessed`. Briefly write your thoughts about it in the README file attached to your solution.
+Randomly pick 5 questions and do the following:
+* analyze manually the difference between `named_entities` and `named_entities_preprocessed`;
+* manually perform the Named Entity Linking task on the questions and compare your annotation with the DBpedia Spotlight one
+
+Briefly write your thoughts about it in the README file attached to your solution.
 
 While working with DBpedia Spotlight always use fixed `confidence = 0.5`.
 
