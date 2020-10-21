@@ -25,11 +25,11 @@ The format of the script output is a JSON file with the following structure:
         'named_entities_preprocessed': {'http://dbpedia.org/resource/Steve_Buyer': 'Steve Buyer'}
     },
     {
-        'id': '3911',
-        'question_text': 'What is the profession of the children of Herbert Pell ?',
-        'question_text_preprocessed': ['What', 'profession', 'child', 'Herbert', 'Pell'],
-        'named_entities': {'http://dbpedia.org/resource/Herbert_Pell': 'Herbert Pell'},
-        'named_entities_preprocessed': {'http://dbpedia.org/resource/Herbert_Pell': 'Herbert Pell'}
+        'id': '4635',
+        'question_text': 'What is the occupation of the Irving Chernev and Karen Grigorian?',
+        'question_text_preprocessed': ['What', 'occupation', 'Irving', 'Chernev', 'Karen', 'Grigorian'],
+        'named_entities': {'http://dbpedia.org/resource/Irving_Chernev': 'Irving Chernev', 'http://dbpedia.org/resource/Karen_Grigorian': 'Karen Grigorian'},
+        'named_entities_preprocessed': {'http://dbpedia.org/resource/Irving_Chernev': 'Irving Chernev', 'http://dbpedia.org/resource/Karen_Grigorian': 'Karen Grigorian'}
     }
 ]
 ```
