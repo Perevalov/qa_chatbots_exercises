@@ -34,7 +34,7 @@ The format of the script output is a JSON file with the following structure:
 ]
 ```
 
-Randomly pick 5 questions and do the following:
+Randomly pick 5 questions from your variant and do the following:
 * analyze manually the difference between `named_entities` and `named_entities_preprocessed`;
 * manually perform the Named Entity Linking task on the questions and compare your annotation with the DBpedia Spotlight one
 
