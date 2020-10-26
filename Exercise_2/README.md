@@ -33,6 +33,7 @@ The format of the script output is a JSON file with the following structure:
     }
 ]
 ```
+The output JSON file has to contain all questions from your variant.
 
 Randomly pick 5 questions from your variant and do the following:
 * analyze manually the difference between `named_entities` and `named_entities_preprocessed`;
