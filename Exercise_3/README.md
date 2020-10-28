@@ -1,6 +1,6 @@
 ## Context
 
-Text classification has many applications in Natrual Language Processing. Specifically, in Question-Answering & Chatbots it can be used as Relation (Predicate) Prediction component.
+Text classification has many applications in Natural Language Processing. Specifically, in Question-Answering & Chatbots, it can be used as a Relation (Predicate) Prediction component.
 
 ## Learning Objectives
 
@@ -14,13 +14,13 @@ Depending on your exercise variant analyze data in `train.csv` and `test.csv` by
 * Average token number in a question;
 * Average character number a question.
 
-Depending on your exercise variant implement a question classification algorithm based on provided training data (see variant). You can use Rule-Based approach (e.g. keyword classifier) **or** Machine Learning approach (e.g. Bag of Words + Logistic Regression).
+Depending on your exercise variant implement a question classification algorithm based on provided training data (see variant). You can use a Rule-Based approach (e.g. keyword classifier) **or** a Machine Learning approach (e.g. Bag of Words + Logistic Regression).
 
 Train (or set up) your algorithm on `train.csv` data. Test the quality of the algorithm on `test.csv` data.
 
 For testing use following metrics: `Precision`, `Recall`, `F1 Score` (averaging type = weighted).
 
-In the README.md file in your submission include your findings about the datasets analysis and the metrics results.
+In the README.md file in your submission include your findings of the datasets analysis and the metrics results.
 
 **OPTIONAL:** compare the metrics values while training on non-preprocessed data and preprocessed (see previous exercise).
 
@@ -57,7 +57,7 @@ print('F1 Score = {0}'.format(f1))
 # F1 Score = 0.9859812799120309
 ```
 
-**Note:** if you use Machine Learning approach -- compare at least TWO different approaches between each other. For example, use Logistic Regression model, while generating features using Bag of Words (BoW) and TF-IDF. In this case you're comparing BoW vs TF-IDF while the model stays the same.
+**Note:** if you use a Machine Learning approach -- compare at least TWO different approaches between each other. For example, use a Logistic Regression model, while generating features using a Bag of Words (BoW) and a TF-IDF. In this case you're comparing BoW vs TF-IDF while the model stays the same.
 
 ## Guidance / Tutorials
 
