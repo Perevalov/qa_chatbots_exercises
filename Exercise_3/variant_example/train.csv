@@ -1,4 +1,4 @@
-question;relation
+question;predicate
 what is the genre of transport;http://dbpedia.org/ontology/genre
 what genre is a thousand lights in a darkened room;http://dbpedia.org/ontology/genre
 what former legislator was born in new castle;http://dbpedia.org/ontology/birthPlace
