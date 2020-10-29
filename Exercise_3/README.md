@@ -53,9 +53,9 @@ Train (or set up) your algorithm on `train.csv` data. Test the quality of the al
 
 For testing use following metrics: `Precision`, `Recall`, `F1 Score` (averaging type = weighted).
 
-In the README.md file in your submission include your findings of the datasets analysis and the metrics results.
+Compare the metrics values while training on non-preprocessed data and preprocessed (see previous exercise).
 
-**OPTIONAL:** compare the metrics values while training on non-preprocessed data and preprocessed (see previous exercise).
+In the README.md file in your submission include your findings of the datasets analysis and the metrics results.
 
 ## Simple ML classifier with Python
 
