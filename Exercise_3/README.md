@@ -95,6 +95,8 @@ print('F1 Score = {0}'.format(f1))
 ## Guidance / Tutorials
 
 * Keyword based text classification example: https://stackoverflow.com/questions/1490061/classifying-text-based-on-groups-of-keywords
-* Machine Learning based text classification: https://monkeylearn.com/text-classification/
-* Neural Networks based text classification: https://realpython.com/python-keras-text-classification/
-* Metrics for testing: https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics
+* Classification metrics explained: https://towardsdatascience.com/the-5-classification-evaluation-metrics-you-must-know-aa97784ff226
+* [Python] Machine Learning based text classification: https://monkeylearn.com/text-classification/
+* [Python] Neural Networks based text classification: https://realpython.com/python-keras-text-classification/
+* [Java] Text classificaiton libraries: https://github.com/jatecs/jatecs, https://stackoverflow.com/questions/2821575/java-text-classification-problem
+* [Python] Metrics in scikit-learn: https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics
