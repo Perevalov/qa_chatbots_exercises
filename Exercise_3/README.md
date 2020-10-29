@@ -1,6 +1,39 @@
 ## Context
 
-Text classification has many applications in Natural Language Processing. Specifically, in Question-Answering & Chatbots, it can be used as a Relation (Predicate) Prediction component.
+Text classification has many applications in Natural Language Processing. Specifically, in Question-Answering & Chatbots, it can be used as a **Relation (Predicate) Prediction** component.
+
+**Relation Prediction** is the task of recognizing a named relation between two named semantic entities. For example, having a triple <Donald_Trump <?> <New_York_City> we need to predict the relation between these two entities (<birthPlace>). 
+  
+We can use Relation Prediction in the Question Answering process. Let's consider the simple question `"Where was Donald Trump born?"`. 
+First, we need to determine what named entities are contained in the question using **NEL** tool. If we use [DBpedia Spotlight](https://www.dbpedia-spotlight.org/), the answer will be: `http://dbpedia.org/resource/Donald_Trump`. Now, we have following query structure:
+
+```
+PREFIX dbr: <http://dbpedia.org/resource/>
+
+SELECT ?o
+WHERE
+{
+  dbr:Donald_Trump ?p ?o .
+}
+```
+Obviously, the query is ambigious.
+
+Hence, we need to understand what we are looking for. To do this, the target predicate (?p) has to be obtained via Relation Prediction. Imagine, that we have Relation Prediction model, that returns us `http://dbpedia.org/ontology/birthPlace` for the given question. Then, the query will look like this:
+
+```
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+
+SELECT ?o
+WHERE
+{
+  dbr:Donald_Trump dbo:birthPlace ?o .
+}
+```
+
+This query now is ready to be executed on the DBpedia Endpoint.
+
+The illustrated example of usage the Relation Prediction task can be applied in your further work with the projects.
 
 ## Learning Objectives
 
