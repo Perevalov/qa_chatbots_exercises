@@ -1,6 +1,6 @@
 ## Context
 
-As Question Answering system is a software product -- we need share it with the user. Mostly, it is done in the form of Web Application. A canonical Web Application has the "Client-Server" or "Frontend-Backend" architecture. Where Client presents a graphical interface to a user and sends all the user's data to a Server, which does all computations and sends back a result.
+As Question Answering system is a software product -- we need share it with the user. Mostly, it is done in the form of a Web Application. A canonical Web Application has the "Client-Server" or "Frontend-Backend" architecture. Where Client presents a graphical interface to a user and sends all the user's data to a Server, which does all computations and sends back a result.
 
 In case of a Question Answering system, Client has to provide user a Form where he/she can put a question and see an answer. When the question is provided, Client sends it to the Server which computes an answer and sends it back to the Client.
 
@@ -21,12 +21,12 @@ If you are not familiar with Front-end stack you can use any Messenger's API (Te
 
 ### 2. Back-end (Server)
 
-Implement a server for you Question Answering system. The server has to support 2 HTTP methods:
+Implement a server for your Question Answering system. The server has to support 2 HTTP methods:
 
 1. Type: `GET`, Name: `health`, Returns: `{'status': 'OK'}`;
 2. Type: `POST`, Name: `get_answer`, Params: `question_text`, Returns: `{'answer_text': 'This is your question <question_text>'}`.
 
-**OPTIONAL:** reuse Named Entity Linking and Relation Prediction components in your Back-end. Then, the second method has to return following: 
+**OPTIONAL:** reuse Named Entity Linking and Relation Prediction components in your Back-end. Then, the 2nd method has to return following: 
 ```
 {
     'answer_text': 'This is your question <question_text>',
@@ -37,12 +37,12 @@ Implement a server for you Question Answering system. The server has to support 
 
 ### 3. Connect Front-end and Back-end
 
-Connect Front-end and Back-end together, such that user can sent his questions and recieve answers. Keep in mind that you have to parse JSON response from your Back-end and present it in a "beautiful" way.
+Connect Front-end and Back-end together, such that user can send questions and recieve answers. Keep in mind that you have to parse JSON response from your Back-end and present it in a "beautiful" way in Front-end.
 
 ## Submission check
 
 In this Exercise, **submission check will be performed in two steps**:
-1. You send the code with your solution and README with description of files to Moodle (as usually). Then I check it, if everything is OK, we move to second step.
+1. You send the code with your solution and README with description of files to Moodle (as usually). Then I check it, if everything is OK, we move to the second step.
 2. On the Exercise you share your screen and show how it works.
 
 After completion of these two steps you pass the exercise.
