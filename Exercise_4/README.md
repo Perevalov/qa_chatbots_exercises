@@ -57,4 +57,5 @@ After completion of these two steps, you pass the exercise.
 * The Backend of the project from the previous year: https://github.com/Perevalov/nuance-core
 * Creating REST Service with Java Spring: https://spring.io/guides/gs/rest-service/
 * Creating REST Service with Python Flask: https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
+* How to structure large Flask applications: https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications#structuring-the-application-directory
 * Additional help: https://moodle.hs-anhalt.de/course/view.php?id=1384
