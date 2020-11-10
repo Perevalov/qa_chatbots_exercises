@@ -1,0 +1,5 @@
+{
+        "birthPlace": ["<PERSON> was born in the <LOCATION>.", "<LOCATION> is the place of birth of <PERSON>"],
+        "genre": ["<ARTIST> plays in the <GENRE> genre."],
+        "timeZone": ["<LOCATION> has the following time zone <TIMEZONE>", "<TIMEZONE> time zone is used in the <LOCATION>"]
+}
