@@ -1,0 +1,3 @@
+requests
+Flask
+qanary_helpers==0.0.9
