@@ -55,4 +55,30 @@ After completion of these two steps, you pass the first part.
 
 # Part 2: Qanary Integration
 
-TODO
+## Context
+
+Most of the novel applications have microservice architecture and our Question Answering systems are not an exception. In our context, every component of the system has to be separate microservice, in order to run everything more easier and efficiently it is proposed to use the [Qanary framework](https://github.com/WDAqua/Qanary).
+
+## Learning Objectives
+
+* Learn how to design an application with microservice architecture;
+* Learn how to implement a QA system within the Qanary Framework.
+
+## Task
+
+Before you start implementing the task, see an [example](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/Exercise_5/qanary_example).
+
+0. Install latest version of the "qanary helpers" via `pip install --upgrade qanary_helpers==0.0.9`;
+1. Split your QA system into separate components. Each component should be located within one package/folder (see example);
+2. Define configuration parameters in `app.conf` file for each component;
+3. Implement your components. The example of implementation is located within `classifier.py` in the example;
+4. Define the data that you would like to save to the triplestore w.r.t your components and adjust the SPARQL insert query;
+5. Change your backend as it shown in the example (`controllers.py`) such that it will run Qanary Pipeline and retrieve the final answer;
+6. Start all components. Check its status [here](http://webengineering.ins.hs-anhalt.de:43740/#/applications);
+7. If all components are working correctly start your QA system and test it.
+
+## Guidance / Tutorials
+
+* Qanary wiki: https://github.com/WDAqua/Qanary/wiki
+* Qanary Admin panel: http://webengineering.ins.hs-anhalt.de:43740/#/applications
+* Qanary Question Answering Components repository: https://github.com/WDAqua/Qanary-question-answering-components

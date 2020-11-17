@@ -44,13 +44,14 @@ def get_final_result(endpoint, in_graph):
 
 @main_module.route('/question', methods=['POST'])
 def get_question():
-    question_text = request.args.get("user_text")
+    question_text = request.get_json()["user_text"]
 
+    print(question_text)
     # run Qanary pipeline
     response = requests.post(url=qanary_pipeline_url,
                              params={
                                  "question": question_text,
-                                 "componentlist[]": ["relation_prediciton"]
+                                 "componentlist[]": ["relation_prediciton_perevalov"]
                              }).json()
 
     # get result of the Qanary pipeline execution
