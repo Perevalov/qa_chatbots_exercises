@@ -24,3 +24,20 @@
 7. Run `app.py`
 8. Go to [Qanary Admin panel](http://webengineering.ins.hs-anhalt.de:43740) to see if your component is running
 9. Use `/question` method of the Backend to start the Qanary pipeline
+
+### How to expose multiple ports with ngrok?
+
+1. Register free account at https://ngrok.com/;
+2. Copy auth token in your dashboard;
+3. Create `ngrok.yml` file in the same directory where your ngrok tool located. The structure of the `ngrok.yml`:
+```
+authtoken: PASTEYOURTOKENHERE
+tunnels:
+  first:
+    addr: 1130
+    proto: http    
+  second:
+    addr: 1180
+    proto: http
+```
+4. Run ngrok with the following command (Linux): `./ngrok start -config ngrok.yml --all`
