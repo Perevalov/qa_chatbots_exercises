@@ -66,7 +66,7 @@ Most of the novel applications have microservice architecture and our Question A
 
 ## Task
 
-Integrate the Qanary framework into your Question Answering system's Server (Backend) side, such that every component of the system has to be a separate microservice (Qanary component). Combine the Frontend and Backend with Qanary in the same way as in the 1st part of the Exercise (it has to provide Natural Language interface to answer questions). 
+Integrate the Qanary framework into your Question Answering system's Server (Backend) side, such that every component of the system has to be a separate microservice (Qanary component). Combine the Frontend and Backend with Qanary in the same way as in the 1st part of the Exercise (it has to provide a Natural Language interface to answer questions). 
 
 Prepare the answers for the following control questions in your README file:
 * Which ports do you use for which components (component_name - port_number)?
