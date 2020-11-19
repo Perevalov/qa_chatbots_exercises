@@ -37,7 +37,7 @@ Install `qanary_helpers` library via `pip install qanary-helpers`
 
 ### Step 2
 
-Create basic component file structure:
+Create a basic component file structure:
 * Create a directory for your component `my_component` and change your working directory to it;
 * Create config file `app.conf` and specify the configuration parameters:
 
@@ -133,7 +133,7 @@ def index():
     return "Hi! \n This is My Component."
 ```
 
-* Create a file for the webservice implementaiton `app.py` (pay attention to the TODO comments):
+* Create a file for the webservice implementation `app.py` (pay attention to the TODO comments):
 
 ```
 import logging
