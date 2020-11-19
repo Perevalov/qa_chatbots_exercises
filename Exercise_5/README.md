@@ -78,6 +78,7 @@ Prepare the answers for the following control questions in your README file:
 There are two directly supported programming languages:
 * Python, see [tutorial](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/Exercise_5/qanary_example);
 * Java, see [tutorial](https://github.com/WDAqua/Qanary/wiki/How-do-I-implement-a-new-Qanary-component-using-Java%3F);
+
 While using the Qanary framework any component can communicate with each other despite the used programming language in a particular component.
 
 ## Guidance / Tutorials
