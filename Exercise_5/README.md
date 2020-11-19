@@ -57,7 +57,7 @@ After completion of these two steps, you pass the first part.
 
 ## Context
 
-Most of the novel applications have microservice architecture and our Question Answering systems are not an exception. In our context, every component of the system has to be separate microservice, in order to run everything more easier and efficiently it is proposed to use the [Qanary framework](https://github.com/WDAqua/Qanary).
+Most of the novel applications have microservice architecture and our Question Answering systems are not an exception. In our context, every component of the system has to be a separate microservice, in order to run everything easier, efficiently, quality-assured, and enable an exchange of components, we will use the [Qanary framework](https://github.com/WDAqua/Qanary) for implementing your application in this course.
 
 ## Learning Objectives
 
@@ -66,16 +66,19 @@ Most of the novel applications have microservice architecture and our Question A
 
 ## Task
 
-Before you start implementing the task, see an [example](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/Exercise_5/qanary_example).
+Integrate the Qanary framework into your Question Answering system's Server (Backend) side, such that every component of the system has to be a separate microservice (Qanary component). Combine the Frontend and Backend with Qanary in the same way as in the 1st part of the Exercise (it has to provide Natural Language interface to answer questions). 
 
-0. Install latest version of the "qanary helpers" via `pip install --upgrade qanary_helpers==0.0.9`;
-1. Split your QA system into separate components. Each component should be located within one package/folder (see example);
-2. Define configuration parameters in `app.conf` file for each component;
-3. Implement your components. The example of implementation is located within `classifier.py` in the example;
-4. Define the data that you would like to save to the triplestore w.r.t your components and adjust the SPARQL insert query;
-5. Change your backend as it shown in the example (`controllers.py`) such that it will run Qanary Pipeline and retrieve the final answer;
-6. Start all components. Check its status [here](http://webengineering.ins.hs-anhalt.de:43740/#/applications);
-7. If all components are working correctly start your QA system and test it.
+Prepare the answers for the following control questions in your README file:
+* Which ports do you use for which components (component_name - port_number)?
+* What parameters do you pass into the Qanary pipeline in order to execute components?
+* Why do you need to use `ngrok` to register components in [Qanary](http://webengineering.ins.hs-anhalt.de:43740/#/applications)?
+* Where should you put the component's code in your server/local machine?
+* Give your personal feedback on the framework.
+
+There are two directly supported programming languages:
+* Python, see [tutorial](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/Exercise_5/qanary_example);
+* Java, see [tutorial](https://github.com/WDAqua/Qanary/wiki/How-do-I-implement-a-new-Qanary-component-using-Java%3F);
+While using the Qanary framework any component can communicate with each other despite the used programming language in a particular component.
 
 ## Guidance / Tutorials
 
