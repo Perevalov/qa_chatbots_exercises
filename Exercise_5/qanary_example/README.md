@@ -27,7 +27,9 @@
 
 ## Steps to implement a new Qanary component using Python
 
-Note, that you have to split your QA system into separate components. Each component should be located within one package/folder (see this example).
+[Qanary](https://github.com/WDAqua/Qanary) is a methodology following the idea of a lean architecture of Question Answering systems and easy reuse of Question Answering services (c.f., see [our publication](https://doi.org/10.1007/978-3-319-34129-3_38) for details). We call these services Qanary components.
+
+Note, that you have to split your QA system into separate components. Each component should be located within one folder.
 
 ### Step 1
 
@@ -58,7 +60,7 @@ servicedescription = My component description
 serviceversion = 0.1.0
 ```
 
-* Create a file with the component's implementation `my_component.py`:
+* Create a file with the component's implementation `my_component.py` (pay attention to the TODO comments):
 
 ```
 from flask import Blueprint, jsonify, request
@@ -69,7 +71,7 @@ import json
 import logging
 
 logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
-my_component = Blueprint('my_component', __name__, template_folder='templates')
+my_component = Blueprint('my_component', __name__, template_folder='templates') # TODO: give a name to your blueprint
 configfile = "app.conf"
 
 configuration = Configuration(configfile, [
@@ -77,7 +79,7 @@ configuration = Configuration(configfile, [
     'serviceversion'
 ])
 
-@my_component.route("/annotatequestion", methods=['POST'])
+@my_component.route("/annotatequestion", methods=['POST']) # TODO: change my_component in the decorator if you have changed the blueprint's name
 def qanary_service():
     """the POST endpoint required for a Qanary service"""
 
@@ -93,6 +95,7 @@ def qanary_service():
     logging.info(f'Question Text: {text}')
 
     # TODO: implement your logic here
+    # TODO: you don't have to put all implementation in this method. You can split your implementation into separate modules and call them from this method
 
     SPARQLquery = """
                     PREFIX qa: <http://www.wdaqua.eu/qa#>
@@ -122,7 +125,7 @@ def qanary_service():
     return jsonify(request.get_json())
 
 
-@my_component.route("/", methods=['GET'])
+@my_component.route("/", methods=['GET']) # TODO: change my_component in the decorator if you have changed the blueprint's name
 def index():
     """an example GET endpoint returning "hello world (String)"""
 
