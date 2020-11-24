@@ -1,12 +1,16 @@
 import logging
+import sys
+import signal
 import argparse
 from flask import Flask, render_template
 from datetime import datetime
-
 from qanary_helpers.configuration import Configuration
 from qanary_helpers.registration import Registration
 from qanary_helpers.registrator import Registrator
 from classifier import relation_clf
+
+
+logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
 
 # default config file (use -c parameter on command line specify a custom config file)
 configfile = "app.conf"
@@ -24,7 +28,6 @@ app.register_blueprint(relation_clf)
 # holds the configuration
 configuration = None
 
-
 @app.route(healthendpoint, methods=['GET'])
 def health():
     """required health endpoint for callback of Spring Boot Admin server"""
@@ -32,8 +35,6 @@ def health():
 
 
 if __name__ == "__main__":
-    logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
-
     # allow configuration of the configfile via command line parameters
     argparser = argparse.ArgumentParser(
         description='You might provide a configuration file, otherwise "%s" is used.' % (configfile))
@@ -81,6 +82,14 @@ if __name__ == "__main__":
         myRegistration
     )
     registratorThread.start()
+
+    def handler(*args):
+        logging.info('CTRL-C pressed, Stopping Registration Thread...')
+        registratorThread.quit_flag = True
+        registratorThread.join()
+        sys.exit(0)
+
+    signal.signal(signal.SIGINT, handler)
 
     # start the web service
     app.run(debug=True, port=configuration.serviceport)
