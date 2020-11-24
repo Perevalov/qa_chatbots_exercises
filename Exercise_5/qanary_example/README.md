@@ -25,6 +25,11 @@
 8. Go to [Qanary Admin panel](http://webengineering.ins.hs-anhalt.de:43740) to see if your component is running
 9. Use `/question` method of the Backend to start the Qanary pipeline
 
+## Steps to implement a new Qanary component using Python
+
+Please see this [tutorial](https://github.com/WDAqua/Qanary/wiki/How-to-Implement-a-Qanary-Component-using-Python-Qanary-Helpers).
+
+
 ### How to expose multiple ports with ngrok?
 
 1. Register free account at https://ngrok.com/;
