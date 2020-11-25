@@ -1,7 +1,6 @@
 from flask import Blueprint, jsonify, request
 from qanary_helpers.configuration import Configuration
 from qanary_helpers.qanary_queries import get_text_question_in_graph, insert_into_triplestore
-# from rel_pred import predict
 import pickle
 from nltk import word_tokenize
 from nltk.corpus import stopwords
@@ -9,6 +8,8 @@ from nltk import SnowballStemmer
 from nltk.stem.snowball import EnglishStemmer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction import text
+import sys
+sys.path.append("..")
 from utils import stemmed_words
 import nltk
 import requests
@@ -23,7 +24,6 @@ configuration = Configuration(configfile, [
     'servicename',
     'serviceversion'
 ])
-
 
 stopWords = text.ENGLISH_STOP_WORDS.union(["book"]) 
 stemmer = EnglishStemmer() 
@@ -52,7 +52,6 @@ def qanary_service():
     logging.info(f'Question Text: {text}')
 
     pred = classifier.predict(vectorizer.transform([text]))
-    logging.info("PREDICTION!!!!!", pred)
 
     SPARQLquery = """
                     PREFIX qa: <http://www.wdaqua.eu/qa#>
