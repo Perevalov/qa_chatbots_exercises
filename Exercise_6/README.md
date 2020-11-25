@@ -1,6 +1,6 @@
 ## Context
 
-Software testing on a par with the software development is an integral part of the process of delivering the system to its users. The testing phase is intended to find and localize the errors in the newly developed system. There are several statements about errors in the code that can help to undertand the importance of testing better:
+Software testing on a par with software development is an integral part of the process of delivering the system to its users. The testing phase is intended to find and localize the errors in the newly developed system. There are several statements about errors in the code that can help to understand the importance of testing better:
 
 * The error always exists;
 * The error is always not where you are looking for it;
