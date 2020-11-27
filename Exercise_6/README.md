@@ -17,8 +17,8 @@ Software testing on a par with software development is an integral part of the p
 Based on the data provided for each variant create the following tests:
 
 1. Implement end-to-end Question Answering quality test using [Precision@k](https://stackoverflow.com/questions/55748792/understanding-precisionk-apk-mapk) metric (compare True answers with the ones that your system outputs);
-2. Components testing: write tests for all components in your QA system. The tests should check the correctness of components' work (e.g. check if the required annotation was created);
-3. Models evaluation: create a test for your machine learning models (e.g. relation classifier) such that it achieves the expected value of a target metric ([Precision](https://en.wikipedia.org/wiki/Precision_and_recall), [Recall](https://en.wikipedia.org/wiki/Precision_and_recall), [F1 Score](https://en.wikipedia.org/wiki/F-score)).
+2. [Components testing](https://github.com/Perevalov/qa_chatbots_exercises/blob/main/Exercise_6/qanary_example/tests/test_relation_prediction_component.py): write tests for all components in your QA system. The tests should check the correctness of components' work (e.g. check if the required annotation was created);
+3. [Models evaluation](https://github.com/Perevalov/qa_chatbots_exercises/blob/main/Exercise_6/qanary_example/tests/test_relation_prediction_model.py): create a test for your machine learning models (e.g. relation classifier) such that it achieves the expected value of a target metric ([Precision](https://en.wikipedia.org/wiki/Precision_and_recall), [Recall](https://en.wikipedia.org/wiki/Precision_and_recall), [F1 Score](https://en.wikipedia.org/wiki/F-score)).
 
 Put all tests in the `tests` directory of your project.
 
