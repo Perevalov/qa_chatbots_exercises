@@ -56,10 +56,11 @@ def qanary_service():
     SPARQLquery = """
                     PREFIX qa: <http://www.wdaqua.eu/qa#>
                     PREFIX oa: <http://www.w3.org/ns/openannotation/core/>
-                    PREFIX dbo: <http://dbpedia.org/ontology/>
+                    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
                     INSERT {{
                     GRAPH <{uuid}> {{
+                        ?a rdf:type qa:AnnotationOfInstance .
                         ?a oa:relation <{relation_uri}> .
                         ?a oa:annotatedBy <urn:qanary:{app_name}> .
                         ?a oa:annotatedAt ?time .
