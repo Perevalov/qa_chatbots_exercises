@@ -39,10 +39,20 @@ Please see this [tutorial](https://github.com/WDAqua/Qanary/wiki/How-to-Implemen
 authtoken: PASTEYOURTOKENHERE
 tunnels:
   first:
-    addr: 1130
+    addr: 3002
+    bind_tls: false
     proto: http    
   second:
-    addr: 1180
+    addr: 8080
+    bind_tls: false
+    proto: http
+  third:
+    addr: 8081
+    bind_tls: false
+    proto: http
+  fourth:
+    addr: 8082
+    bind_tls: false
     proto: http
 ```
 4. Run ngrok with the following command (Linux): `./ngrok start -config ngrok.yml --all`
