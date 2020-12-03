@@ -1,18 +1,3 @@
-## Example of Qanary Framework usage with Python
-
-```
-├── app
-│   ├── controllers.py - contains routes and logic for the Backend
-│   ├── __init__.py - initializes the Backend
-│   └── relation_prediction - folder with the Qanary component (can be located outside of the project)
-│       ├── app.conf - conatins configuration parameters for the Backend
-│       ├── app.py - runs the Qanary component "relation_prediction"
-│       ├── classifier.py - file with classifier implementation and Qanary methods
-├── config.py - conatins configuration parameters for the Backend
-├── README.md
-└── run.py - runs the Backend
-```
-
 ## Steps to run the example via Docker on the Server
 
 1. Build an image by running `docker build -t my-container-perevalov:latest .` in this directory;
