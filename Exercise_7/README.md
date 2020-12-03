@@ -21,7 +21,7 @@ Before you start -- check the [example](https://github.com/Perevalov/qa_chatbots
 
 Be prepared to answer the following control questions:
 
-* What is Gunicorn and what is the difference with Flask? (answer if you use Python);
+* What is Gunicorn and what is its difference vs. Flask? (answer if you use Python);
 * Can we reuse a Docker image in order to run several Docker containers?
 * What is the difference between the Docker image and the Docker container?
 * Can we run Docker containers without Docker Compose?
