@@ -34,7 +34,7 @@ In this Exercise, **submission check will be performed in two steps**:
 1. You send the code with your solution and the README with a description of files to Moodle (as usual). Then I check it, if everything is OK, we move to the second step.
 2. On the Exercise, you share your screen and show how it works.
 
-After completion of these two steps, you pass the first part.
+After completion of these two steps, you pass the Exercise.
 
 ## Guidance / Tutorials
 
