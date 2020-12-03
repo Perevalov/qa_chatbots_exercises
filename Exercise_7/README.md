@@ -4,8 +4,8 @@ We want our system to work in any environment: local PC, server of the Universit
 
 ## Learning Objectives
 
-* Learn how to create a `Docker` image;
-* Learn how to run multiple `Docker` containers.
+* Learn how to create a Docker image;
+* Learn how to run multiple Docker containers.
 
 ## Task
 
