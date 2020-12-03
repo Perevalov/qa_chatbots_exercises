@@ -1,6 +1,4 @@
-# Dockerfile for the Backend
-
-FROM python:3.6.6-slim
+FROM python:3.6.6-slim # Basic image
 
 WORKDIR /home/qanary_example
 
