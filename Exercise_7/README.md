@@ -19,6 +19,15 @@ Work in teams:
 
 Before you start -- check the [example](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/Exercise_7/qanary_example).
 
+Be prepared to answer the following control questions:
+
+* What is Gunicorn and what is the difference with Flask? (answer if you use Python);
+* Can we reuse a Docker image in order to run several Docker containers?
+* What is the difference between the Docker image and the Docker container?
+* Can we run Docker containers without Docker Compose?
+* What is the difference between Docker containers and Virtual Machines?
+* What is the difference between Git, GitHub, and GitLab?
+
 ## Submission check
 
 In this Exercise, **submission check will be performed in two steps**:
