@@ -1,6 +1,6 @@
 ## Context
 
-We want our system to work in any environment: local PC, server of the University, server of the Project Sponsor etc. However, every environment has its own setup: hardware, OS, libraries and dependencies.
+We want our system to work in any environment: local PC, server of the University, server of the Project Sponsor etc. However, every environment has its own setup: hardware, OS, libraries and dependencies. The solution is to put each microservice into a separate container that is completely isolated from dependencies and libraries of the OS. 
 
 ## Learning Objectives
 
