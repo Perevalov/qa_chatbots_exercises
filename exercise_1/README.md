@@ -1,3 +1,5 @@
+# Exercise 1: Recognizing and Linking Named Entities in the Textual Questions
+
 ## Context
 
 Analyzing and processing Natural Language is one of the basic and first things in the Question Answering (QA) systems.
@@ -19,7 +21,7 @@ The information about named entities is used by a QA system in the future steps 
 ### Part 1 (manual)
 
 Select any 10 questions from the dataset **according to your variant** and do the following:
-* translate them from English to your mother tongue (e.g. German, Chineese, etc.).
+* translate them from English to your mother tongue (e.g. German, Chineese, etc.), no machine translation if possible.
 * extract named entities manually from these questions (and translations) and determine their type (e.g. Person, Location, Company, etc.).
 * put everything together in the structured JSON format as shown below.
 
