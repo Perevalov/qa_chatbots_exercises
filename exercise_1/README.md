@@ -32,14 +32,14 @@ Select any 10 questions from the dataset **according to your variant** and do th
         'question_text': 'In what wars was Steve Buyer involved?',
         'question_text_LANG_CODE': 'An welchen Kriegen war Steve Buyer beteiligt?',
         'named_entities': {'Steve Buyer': ['Person']},
-        'named_entities_LANG_CODE': {'Steve Buyer': 'Person'}
+        'named_entities_LANG_CODE': {'Steve Buyer': ['Person']}
     },
     {
         'id': '4635',
         'question_text': 'What is the occupation of the Irving Chernev and Karen Grigorian?',
         'question_text_LANG_CODE': 'What is the occupation of the Irving Chernev and Karen Grigorian?',
         'named_entities': {'Irving Chernev': ['Person'], 'Karen Grigorian': ['Person']},
-        'named_entities_LANG_CODE': {'Irving Chernev': 'Person', 'Karen Grigorian': 'Person'}
+        'named_entities_LANG_CODE': {'Irving Chernev': ['Person'], 'Karen Grigorian': ['Person']}
     }
 ]
 ```
