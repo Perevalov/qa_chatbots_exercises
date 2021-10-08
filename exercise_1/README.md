@@ -4,11 +4,11 @@
 
 Analyzing and processing Natural Language is one of the basic and first things in the Question Answering (QA) systems.
 
-One of the important steps is to recognize so-called [Named Entities]() ([NER]()) and/or link them to a resource on the web or in a knowledge graph ([Named Entity Linking (NEL)]()).
+One of the important steps is to recognize so-called [Named Entities](https://en.wikipedia.org/wiki/Named_entity) ([Named Entity Recognition, NER](https://en.wikipedia.org/wiki/Named-entity_recognition)) and/or link them to a resource on the web or in a knowledge graph ([Named Entity Linking (NEL)](https://en.wikipedia.org/wiki/Entity_linking)).
 
-For example, in the following question: "Where was Angela Merkel born?", we can recognize (NER) and link (NEL) the named entity "Angela Merkel" to a corresponding resource in the DBpedia Knowledge Graph -- https://dbpedia.org/page/Angela_Merkel.
+For example, in the following question: "Where was Angela Merkel born?", we can recognize (NER) and link (NEL) the named entity "Angela Merkel" to a corresponding resource in the [DBpedia Knowledge Graph](https://www.dbpedia.org/about/#:~:text=DBpedia%20is%20a%20crowd%2Dsourced,for%20everyone%20on%20the%20Web.) -- https://dbpedia.org/page/Angela_Merkel (i.e., to a URI that is an ID of the person "Angela Merkel").
 
-The information about named entities is used by a QA system in the future steps of answering a question (e.g. in the query builder component).
+The information about named entities is used by a QA system in the future steps of answering a question (e.g., in the query builder component).
 
 ## Learning Objectives
 
@@ -21,8 +21,8 @@ The information about named entities is used by a QA system in the future steps 
 ### Part 1 (manual)
 
 Select any 10 questions from the dataset **according to your variant** and do the following:
-* translate them from English to your mother tongue (e.g. German, Chineese, etc.), no machine translation if possible.
-* extract named entities manually from these questions (and translations) and determine their type (e.g. Person, Location, Company, etc.).
+* translate them from English to your mother tongue (e.g., German, Chinese, etc.); please do no use machine translation (if possible).
+* extract named entities manually from these questions (and translations) and determine their types (e.g., Person, Politician, Entertainer, Location, City, Company, etc.); please be as precise as possible
 * put everything together in the structured JSON format as shown below.
 
 ```
@@ -31,14 +31,14 @@ Select any 10 questions from the dataset **according to your variant** and do th
         'id': '4831',
         'question_text': 'In what wars was Steve Buyer involved?',
         'question_text_LANG_CODE': 'An welchen Kriegen war Steve Buyer beteiligt?',
-        'named_entities': {'Steve Buyer': 'Person'},
+        'named_entities': {'Steve Buyer': ['Person']},
         'named_entities_LANG_CODE': {'Steve Buyer': 'Person'}
     },
     {
         'id': '4635',
         'question_text': 'What is the occupation of the Irving Chernev and Karen Grigorian?',
         'question_text_LANG_CODE': 'What is the occupation of the Irving Chernev and Karen Grigorian?',
-        'named_entities': {'Irving Chernev': 'Person', 'Karen Grigorian': 'Person'},
+        'named_entities': {'Irving Chernev': ['Person'], 'Karen Grigorian': ['Person']},
         'named_entities_LANG_CODE': {'Irving Chernev': 'Person', 'Karen Grigorian': 'Person'}
     }
 ]
