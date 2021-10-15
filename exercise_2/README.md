@@ -3,10 +3,12 @@
 Text classification has many applications in Natural Language Processing. Specifically, in Question Answering & Chatbots, it can be used as a **Relation (Predicate) Prediction** component.
 
 **Relation (or Predicate)** in terms of knowledge graphs is an edge that is connecting two nodes (or entities). 
-For example, having a triple: `<Mona_Lisa> <?> <Leonardo_da_Vinci>` the relation `<?>` is `<Author>`. 
+For example, having a triple: `<Mona_Lisa> <?> <Leonardo_da_Vinci>` the relation `<?>` is `<Author>` (or e.g. `<Was_Created_By>`). 
 
-In this regard, **Relation Prediction** is the task of recognizing a relation, based on a textual question. In this case, question: `"Who is the author of Mona Lisa?"` has relation `"Author"`.
-  
+In this regard, **Relation Prediction** is the task of recognizing a relation, based on a textual question. In this case, question: `"Who is the author of Mona Lisa?"` has relation `"Author"` (or e.g. `"Was created by"`).
+
+<img src="https://user-images.githubusercontent.com/16652575/137500625-22516edf-0094-48f2-a32a-7b6e4d076f90.png" alt="Example KG by W3C" width="500"/>
+
 We can use Relation Prediction in Knowledge Graph Question Answering systems. Here, the task is directly connected to a Knowledge Graph that we are using. Let's consider our example question: `"Who is the author of Mona Lisa?"` with [DBpedia Knowledge Graph](https://dbpedia.org/). First, we need to determine what named entities are contained in the question using the **NEL** tool. If we use [DBpedia Spotlight](https://www.dbpedia-spotlight.org/), the answer will be: `http://dbpedia.org/resource/Mona_Lisa`. Then, we apply our **Relation Prediciton** algorithm that returns us `http://dbpedia.org/ontology/author`. Now, we have all the data to fulfill our SPARQL query template to fetch the information from the DBpedia Knowledge graph:
 
 ```
@@ -118,6 +120,7 @@ Execute `uvicorn web_api:app --host 0.0.0.0 --port 8899` to run it on your PC. G
 
 ## Guidance / Tutorials
 
+* RDF by W3C: https://www.w3.org/TR/rdf11-primer/
 * Keyword based text classification example: https://stackoverflow.com/questions/1490061/classifying-text-based-on-groups-of-keywords
 * Classification metrics explained: https://towardsdatascience.com/the-5-classification-evaluation-metrics-you-must-know-aa97784ff226
 * [Python] Machine Learning based text classification: https://monkeylearn.com/text-classification/
