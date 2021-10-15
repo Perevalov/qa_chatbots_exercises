@@ -9,9 +9,9 @@ In this regard, **Relation Prediction** is the task of recognizing a relation, b
 
 <img src="https://user-images.githubusercontent.com/16652575/137500625-22516edf-0094-48f2-a32a-7b6e4d076f90.png" alt="Example KG by W3C" width="500"/>
 
-We can use Relation Prediction in Knowledge Graph Question Answering systems. Here, the task is directly connected to a Knowledge Graph that we are using. Let's consider our example question: `"Who is the author of Mona Lisa?"` with [DBpedia Knowledge Graph](https://dbpedia.org/). First, we need to determine what named entities are contained in the question using the **NEL** tool. If we use [DBpedia Spotlight](https://www.dbpedia-spotlight.org/), the answer will be: `http://dbpedia.org/resource/Mona_Lisa`. Then, we apply our **Relation Prediciton** algorithm that returns us `http://dbpedia.org/ontology/author`. Now, we have all the data to fulfill our SPARQL query template to fetch the information from the DBpedia Knowledge graph:
+We can use Relation Prediction in Knowledge Graph Question Answering systems. Here, the task is directly connected to a Knowledge Graph that we are using. Let's consider our example question: `"Who is the author of Mona Lisa?"` with [DBpedia Knowledge Graph](https://dbpedia.org/). First, we need to determine what named entities are contained in the question using the **NEL** tool (cf., [Exercise 1](/exercise_1#context)). If we use the NEL tool [DBpedia Spotlight](https://www.dbpedia-spotlight.org/) ([online demo](https://demo.dbpedia-spotlight.org/)), the computed answer will be: `http://dbpedia.org/resource/Mona_Lisa` (i.e., an identifier uniquely pointing to the [expected entity](http://dbpedia.org/resource/Mona_Lisa)). Then, we apply our **Relation Prediciton** algorithm that returns the relation `http://dbpedia.org/ontology/author`. Now, we have all the data to fulfill our SPARQL query template to fetch the information from the DBpedia Knowledge graph:
 
-```
+```sparql
 SELECT ?answer
 WHERE
 {
@@ -24,19 +24,20 @@ The illustrated example of usage of the Relation Prediction task can be applied 
 ## Learning Objectives
 
 * Learn how to implement a question classifier for the Relation Prediction.
-* Learn how to evaluate (test) implemented question classifier.
-* Learn how to build web services/APIs.
+* Learn how to evaluate (and test) the implemented question classifier.
+* Learn how to build Web services/APIs.
 
 ## Task
 
 ### Part 1 (Creating a classification algorithm)
 
 Depending on your exercise variant analyze data in `train.csv` and `test.csv` by calculating:
+
 * Number of questions per class;
 * Average token number in a question;
 * Average character number a question.
 
-Depending on your exercise variant implement a question classification algorithm based on provided training data (see variant). You can use a Rule-Based approach (e.g. keyword classifier) **or** a Machine Learning approach (e.g. Bag of Words + Logistic Regression).
+Depending on your exercise variant implement a question classification algorithm based on provided training data (see variant). You can use a Rule-Based approach (e.g., keyword classifier) **or** a Machine Learning approach (e.g., Bag of Words + Logistic Regression).
 
 Train (or set up) your algorithm on `train.csv` data. Test the quality of the algorithm on `test.csv` data.
 
@@ -48,6 +49,8 @@ In the `README.md` file in your submission include your findings of the datasets
 
 ## Simple ML classifier with Python
 
+In the following a demo source code is provided showing the training using the [`sklearn` library](https://scikit-learn.org/).
+
 ```python
 import pandas as pd
 
@@ -58,8 +61,8 @@ from sklearn.metrics import f1_score
 
 
 # read our datasets
-train = pd.read_csv("Exercise_3/variant_example/train.csv", sep=';')
-test = pd.read_csv("Exercise_3/variant_example/test.csv", sep=';')
+train = pd.read_csv("Exercise_2/variant_example/train.csv", sep=';')
+test = pd.read_csv("Exercise_2/variant_example/test.csv", sep=';')
 
 vectorizer = CountVectorizer() # init vectorizer
 vectorizer.fit(train.append(test).question) # "fit" vectorizer on train+test
@@ -79,17 +82,18 @@ print('F1 Score = {0}'.format(f1))
 # F1 Score = 0.9859812799120309
 ```
 
-**Note:** if you use a Machine Learning approach -- compare at least TWO different approaches between each other. For example, use a Logistic Regression model, while generating features using a Bag of Words (BoW) and a TF-IDF. In this case, you're comparing BoW vs TF-IDF while the model stays the same.
+**Note:** if you use a Machine Learning approach -- compare at least TWO different approaches between each other. For example, use a Logistic Regression model, while generating features using a Bag of Words (BoW) and a TF-IDF method. In this case, you're comparing BoW vs. TF-IDF while the model stays the same.
 
 ### Part 2 (Wrapping the classification algorithm into a Web API)
 
-Now when you have your classificaiton algorithm, you are asked to integrate it inside a Web Service, that satisfies the following:
+Now when you have your classification algorithm, you are asked to integrate it inside a Web service, that satisfies the following:
+
 * Request path name: `/predict`;
 * Request type: `POST`;
 * Input structure of request: `{'question': 'Question To Classify'}`
 * Output structure of request: `{'predicted_relation': 'RELATION'}`
 
-After you establish a Web Service, run all your questions through the `/predict` method and write the predictions into a structured JSON file:
+After you establish a Web service, run all your questions through the `/predict` method and write the predictions into a structured JSON file:
 
 ```json
 [
@@ -116,7 +120,7 @@ async def predict(question: str):
     return JSONResponse(content=output)
 ```
 
-Execute `uvicorn web_api:app --host 0.0.0.0 --port 8899` to run it on your PC. Go to http://0.0.0.0:8899/docs to check Swagger UI.
+Execute `uvicorn web_api:app --host 0.0.0.0 --port 8899` to run it on your PC. Go to http://0.0.0.0:8899/docs to check the Swagger UI that is providing you the automatically generated [OpenAPI documentation](https://swagger.io/specification/) of your Web API.
 
 ## Guidance / Tutorials
 
