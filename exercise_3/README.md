@@ -63,6 +63,7 @@ response = sparql.query().convert() # answer from the SPARQL Endpoint of a KG
 
 ## Guidance / Tutorials
 
+* A gentle and interactive introduction into the Semantic Web: https://github.com/SemWebNotebooks/Notebooks
 * Wikidata introduction: https://www.wikidata.org/wiki/Wikidata:Introduction 
 * DBpedia introduction: http://www.semantic-web-journal.net/system/files/swj499.pdf
 * Short SPARQL tutorials: https://www.w3.org/2009/Talks/0615-qbe/, https://www.youtube.com/watch?v=FvGndkpa4K0
