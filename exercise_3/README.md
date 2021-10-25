@@ -32,6 +32,8 @@ After you wrote and checked that your queries are executable, write a scripts th
 ]
 ```
 
+Get inspired with the queries from the [example variant](https://github.com/Perevalov/qa_chatbots_exercises/blob/7d4984a6e8a218a3f657c83a7235f06e8f12ca9d/exercise_3/variant_example/README.md).
+
 Please, check that you don't have any errors.
 
 NOTE: Despite, DBpedia and Wikidata are general domain knowledge graphs, not all the information that exists in one of them also present in the another.
