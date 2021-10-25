@@ -1,3 +1,5 @@
+# Exercise 3: SPARQL Queries over DBpedia & Wikidata
+
 ## Context
 
 In our course we mainly study Question Answering systems over Knowledge Graphs (KGs). In its turn, KGs are mainly stored using [Resource Description Framework (RDF)](https://www.w3.org/TR/rdf-syntax-grammar/). RDF is a specification for modeling data (mainly on the Web). The data in RDF is modelled in so-called triples, which is a structure that has `<Subject>`, `<Predicate> (or <Relation>)`, and `<Object>`. For example, `<Mona Lisa> <AuthoredBy> <Leonardo Da Vinci>`. RDF has many vocabularies that extend its applicability. One of the popular RDF use cases that we use everyday is schema.org vocabulary, that is used to markup HTML pages of Online Stores for better Search Engine Optimization (SEO).
