@@ -18,7 +18,7 @@ Depending on your exercise variant manually write SPARQL queries for the corresp
 
 Describe you findings during writing the queries. What's common and different in DBpedia and Wikidata?
 
-After you wrote and checked that your queries are executable, write a scripts that reads a query, executes it on a knowledge graph, fetches the answer, and writes it to a JSON file of the following structure:
+After you wrote and checked that your queries are executable, write a script that reads a query, executes it on a knowledge graph, fetches the answer, and writes it to a JSON file of the following structure:
 
 ```
 [
