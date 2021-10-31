@@ -1,0 +1,1001 @@
+id;question;predicate;subject
+15837;what is the place of birth of willem de beer?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Willem_de_Beer
+24782;Where was friedrich hund born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Friedrich_Hund
+61619;where did gary epper pass away;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Gary_Epper
+39050;what type of book is monsignor quixote?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Monsignor_Quixote
+60989;where did lyman u. humphrey pass away?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Lyman_U._Humphrey
+09405;what style of music does glass moon belong to?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Glass_Moon
+32329;What is the cvg genre of mario & luigi: bowser's inside story;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Mario_&_Luigi:_Bowser's_Inside_Story
+14284;which area does wcvb-tv serve;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/WCVB-TV
+42553;what film was produced by rubber johnny;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Rubber_Johnny
+17561;What position does jorge guagua play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Jorge_Guagua
+64659;What type of music is featured on the album snails;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Snails_(EP)
+65469;What was nerlens noel's basketball position;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Nerlens_Noel
+00315;What is wipers's orgin;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Wipers
+27467;what offensive position does football player dave wilson play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Dave_Wilson_(American_football)
+03259;Who produced the film luke and the mermaids?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Luke_and_the_Mermaids
+31051;which state is the race street friends meetinghouse;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Race_Street_Friends_Meetinghouse
+11768;where did bidhan chandra roy die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Bidhan_Chandra_Roy
+05374;is low heights in the english language or persian language;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Low_Heights
+21775;Where was luis jimenez born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Luis_Jiménez_(third_baseman)
+53990;what city in England did gerard heinz die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Gerard_Heinz
+16033;where in canada was pete laframboise born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Pete_Laframboise
+67580;what label does the artist stereo mcs belong to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Stereo_MCs
+13616;what type of music is thompson twins;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Thompson_Twins
+06842;What language is the jack of hearts filmed in?;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_Jack_of_Hearts
+22336;Which city is the eagles club located in;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/The_Rave_/_Eagles_Club
+13811;what position does john inglis play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/John_Inglis_(footballer,_born_1966)
+73687;who produced lisbon story?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Lisbon_Story_(1994_film)
+49799;what is a language featured on black;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Black_(2004_film)
+12419;Which genre is the album rheinita associated with;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Rheinita
+07794;what time zone is fredericton on?;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Fredericton
+45900;which music genre does  the distractions create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Distractions
+41502;What is the time zone in lafayette?;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Lafayette,_California
+21807;what language is when empty hearts are filled filmed in?;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/When_Empty_Hearts_Are_Filled
+67088;what position does tim van egmond play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Tim_Van_Egmond
+69187;what kind of genre does full bloom perform;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Full_Bloom_(Kara_album)
+21851;where is the primates from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/The_Primates
+58157;what time zone is bialogard in;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Białogard
+07492;what type of music is innercity griots?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Innercity_Griots
+40933;who wrote tribute;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Tribute_(song)
+65434;where in japan is mori arinori from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mori_Arinori
+01586;Which timezone is birch creek located in?;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Birch_Creek,_Wisconsin
+53620;which city was polina jelizarova born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Poļina_Jeļizarova
+66538;What genre is the book city of light?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/City_of_Light_(novel)
+46288;Where was princess margarita of leiningen born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Princess_Margarita_of_Leiningen
+53375;where was tomaz salamun born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Tomaž_Šalamun
+67008;what was john dale's place of birth;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/John_Dale_(writer)
+40777;What type of music is the album live @ the 400 bar;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Live_@_The_400_Bar
+54727;where in england was victoria tennant born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Victoria_Tennant
+06071;where did stefan kaczmarz spend his last day;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Stefan_Kaczmarz
+75147;what kind of book is captives of the flame;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Captives_of_the_Flame
+15953;what language was used in the film  runaway;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Bari_Theke_Paliye
+04734;What musical genre does season one fall under?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Season_One_(All_Sons_&_Daughters_album)
+11083;which city in ireland was sean finn born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Sean_Finn_(footballer)
+24346;what is the genre of noble house?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Noble_House_(miniseries)
+73410;what kind of game is contagion;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Contagion_(video_game)
+53972;what genre is the album indicud;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Indicud
+56883;what is final warning's genre;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Final_Warning
+25690;Which position did former baseball player scott olsen play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Scott_Olsen
+23785;What is the position of football player roberto colautti?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Roberto_Colautti
+51613;who produced the movie ek musafir ek hasina;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Ek_Musafir_Ek_Hasina
+54850;What is peter burgstaller's position;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Peter_Burgstaller
+51312;where was laud quartey born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Laud_Quartey
+44619;which country is sofia rotaru from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Sofia_Rotaru
+62676;What genre is the album tough love: best of the ballads?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Tough_Love:_Best_of_the_Ballads
+60058;What is ii & iii classified as;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/II_&_III
+32943;Which label is page hamilton associated with?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Page_Hamilton
+16733;Where is the charles s. schultz house?;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Charles_S._Shultz_House
+49248;what musical genre best describes the style of claw boys claw;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Claw_Boys_Claw
+07845;where did ferdinand de la cerda's life end;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Ferdinand_de_la_Cerda
+54507;where did philopoemen die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Philopoemen
+15636;what is the nationality of francisco alarcon?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Francisco_Alarcón_(footballer)
+72964;what label is ayreon signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Ayreon
+42296;What is the genre of music by neil mitchell;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Neil_Mitchell_(musician)
+31786;What genre of music does  simone bittencourt de oliveira create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Simone_Bittencourt_de_Oliveira
+55523;What area is served by kdfi;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/KDFI
+11998;what position does earl williams play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Earl_Williams_(1970s_catcher)
+54576;who is the creator of so you want to be a rock n roll star;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/So_You_Want_to_Be_a_Rock_'n'_Roll_Star
+18958;What type of music is the album gone fishin?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Gone_Fishin'_(Flipper_album)
+64431;What genre of music does the artist cream (band) produce;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Cream_(band)
+47593;what position does simone gomes jatoba play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Simone_Gomes_Jatobá
+75148;which record company is roger miller signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Roger_Miller_(rock_musician)
+04812;What genre is live around the world;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Live_Around_the_World_(Miles_Davis_album)
+00166;Who wrote the film thunderbolt and lightfoot?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Thunderbolt_and_Lightfoot
+19568;Where did al carmines die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Al_Carmines
+66090;who is the producer for a lecture on camouflage;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/A_Lecture_on_Camouflage
+32672;What record company releases music from carter beauford;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Carter_Beauford
+54398;where is australia is todd howarth from?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Todd_Howarth
+22301;where was  hermann hogeback born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Hermann_Hogeback
+09327;what position does gary bennett play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Gary_Bennett_(footballer,_born_1963)
+59275;What type of pop music does abjeez make;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Abjeez
+34577;where was  suzanne cloutier born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Suzanne_Cloutier
+05622;What style of book is mountains beyond mountains?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Mountains_Beyond_Mountains
+53624;what was josif runjanin's place of death;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Josip_Runjanin
+45011;Where did the artist aeroplane originate from?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Aeroplane_(musician)
+65219;what types of book is breaking open the head;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Breaking_Open_the_Head
+74815;Where id jacques fath perish;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Jacques_Fath
+72648;what genre is the book tarzan triumphant;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Tarzan_Triumphant
+60208;what kind of metal is the album vault ii;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Vault_II
+06085;Which genre of music is the album welcome to the cruel world?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Welcome_to_the_Cruel_World
+50741;What city did gholamreza takhti die in?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Gholamreza_Takhti
+48436;who wrote sherlock holmes?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Sherlock_Holmes_(2010_film)
+70329;Where was joe yule born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Joe_Yule
+14935;What kind of album is the barn sessions;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Barn_Sessions
+58142;What genre of music does the album get on the good foot feature;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Get_on_the_Good_Foot_(album)
+52283;Where was jone samuelsen born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jone_Samuelsen
+01450;Where was cara-beth burnside born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Cara-Beth_Burnside
+55263;What kind of music is featured in the kwesachu mixtape vol.1 album;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Kwesachu_Mixtape_Vol.1
+09183;la revancha del tango involves what kind of music?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/La_Revancha_del_Tango
+03857;Where was gergely kocsardi born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Gergely_Kocsárdi
+05632;where did sidney ainsworth die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Sidney_Ainsworth
+39222;Which record label is denny zeitlin signed on?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Denny_Zeitlin
+31870;What genre of music does the artist john glascock produce;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/John_Glascock
+64061;what type of book is land of unreason;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Land_of_Unreason
+70455;what label is eisbrecher with?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Eisbrecher
+53044;This is the city where steve sarkisian was born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Steve_Sarkisian
+29941;what is the label of helstar;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Helstar
+29990;what is the indonesian hometown of mulan jameela?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Mulan_Jameela
+45842;what state did gabriel long die in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Gabriel_Long
+22129;is ...for the kids alternative hip hop or rock;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/...For_the_Kids_(Gym_Class_Heroes_album)
+56729;what style of music is the album human in?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Human_(EP)
+18240;Where did georg von arco die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Georg_von_Arco
+09348;ed strelecki was born where;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ed_Strelecki
+63976;what position does matt joyce play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Matt_Joyce_(American_football)
+51394;What positions does dave rochefort play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Dave_Rochefort
+61844;which city was eddie gutierrez born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Eddie_Gutierrez_(soccer)
+18134;Where was fritz hohn born;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Fritz_Höhn
+23247;where was elvezia michel-baldini born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Elvezia_Michel-Baldini
+17575;which record label is cage signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Cage_(band)
+32564;What is pablo andres gonzalez's nationality?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Pablo_Andrés_González
+72022;what music is stand?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Stand_(Breaking_the_Silence_album)
+26738;what language is spoken in oglala lakota;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Oglala_Lakota
+66730;Where was obi metzger born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Obi_Metzger
+07772;where did chronicfuture originally come from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Chronic_Future
+15492;What is the nationality of carlos frenk?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Carlos_Frenk
+71174;What is may mahlangu's nationality;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/May_Mahlangu
+35998;What soccer position does renato carlos martins junior play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Renato_Carlos_Martins_Júnior
+55594;who was the author of the kingdom of this world;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/The_Kingdom_of_This_World
+29192;is japan post-punk or hip-hop;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Japan_(disambiguation)
+05966;which position does andy wilkins play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Andy_Wilkins
+70304;what is  gilberto angelucci birth place;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Gilberto_Angelucci
+56347;Where in illinois was freddie roulette born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Freddie_Roulette
+00771;What position does raul gonzalez blanco play in football?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Raúl_(footballer)
+08359;where did charles james brenham pass away;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Charles_James_Brenham
+39992;who is the composer of the merry-go-round broke down;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/The_Merry-Go-Round_Broke_Down
+54338;What is dean anastasiadis's nationality?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Dean_Anastasiadis
+28866;what is the genre of the artist battlelore;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Battlelore
+42803;is incubus dreams a fiction or nonfiction book;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Incubus_Dreams
+70017;where was wladyslaw bortnowski born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Władysław_Bortnowski
+67682;Which genre of music is the album i am a photograph?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/I_Am_a_Photograph
+69209;where is danny bubp from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Danny_Bubp
+23613;where was mads junker born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mads_Junker
+17773;which position in basketball did carlos boozer play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Carlos_Boozer
+48797;what type of tv show is bastat kasama kita;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Basta't_Kasama_Kita
+20147;Where is the immediate originally from?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/The_Immediate
+35928;where in the world is there a blackwall tunnel;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Blackwall_Tunnel
+63679;what kind of music is on somewhere along the highway?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Somewhere_Along_the_Highway
+34523;what music genre does cabaret voltaire (band) perform?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Cabaret_Voltaire_(band)
+39141;what kind of music does steve lieberman perform;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Steve_Lieberman
+13430;what types of music is triangle;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Triangle_(The_Beau_Brummels_album)
+50829;where did wilson s. bissell die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Wilson_S._Bissell
+63556;what computer videogame genre is lemmings paintball;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Lemmings_Paintball
+30978;what state is lee-fendall house in?;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Lee-Fendall_House
+24300;what kind of music is daqui pro futuro;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Daqui_Pro_Futuro
+05524;where did fridolin von senger und etterlin die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Fridolin_von_Senger_und_Etterlin
+64456;which position in football did keko play in?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Keko_(footballer,_born_1991)
+64488;where was odilo globocnik born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Odilo_Globocnik
+43023;what subject is by the artist weallhavehooksforhands?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/We_All_Have_Hooks_for_Hands
+03737;Which city was sashi reddi born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Sashi_Reddi
+56249;what kind of book is the thanatos syndrome;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Thanatos_Syndrome
+01506;Where did freddie hubbard die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Freddie_Hubbard
+04390;which record label is aghora signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Aghora_(band)
+47432;Who directed the film titled olympic games;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Olympic_Games_(film)
+58815;What genre is the tv show the scooby-doo show;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Scooby-Doo_Show
+07586;what type of music is alan spenner known for;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Alan_Spenner
+73411;what music classification is the album bloody kisses;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Bloody_Kisses
+45028;where was  francesco barsanti born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Francesco_Barsanti
+30811;where in japan was tsunamasa shidei born in?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Tsunamasa_Shidei
+07863;where did enrique hertzog die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Enrique_Hertzog
+04297;Where was jadon lavik born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jadon_Lavik
+15325;what genre of music is the album live in gdansk;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Live_in_Gdańsk
+32694;what type of music is gutter phenomenon?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Gutter_Phenomenon
+74719;which language is used in the girl in the white coat;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_Girl_in_the_White_Coat
+07170;Where was gunther brandt born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Günther_Brandt
+70797;Where did george julian harney die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/George_Julian_Harney
+15806;what type of music does kids love lies play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Kids_Love_Lies
+57842;What kind of music does joey mcdowall make;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Joey_McDowall
+56293;Where did latour start their career;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/LaTour
+20483;what genre on netflix is the war at home;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_War_at_Home_(TV_series)
+49665;where in japan is hiroki wada originally from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/H-Wonder
+48619;who directed between us girls;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Between_Us_Girls
+25572;Where was the place of death of ivan galamian;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Ivan_Galamian
+34502;Where was bob murphy born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Bob_Murphy_(golfer)
+65093;What position in baseball does rick leach play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Rick_Leach_(baseball)
+23565;what kind of game is redneck rampage released in?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Redneck_Rampage
+70840;what sorts of music is created gy vera matovic;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Vera_Matović
+07222;what type of music is collision course... paradox 2;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Collision_Course..._Paradox_2
+01170;What city in southern california did charles schnee die in?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Charles_Schnee
+16476;what position does papi khomane play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Papi_Khomane
+58807;which position is played by ewan fenton;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Ewan_Fenton
+27902;What football position does tracy simien play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Tracy_Simien
+09147;What language is used in the film echoes from a somber empire;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Echoes_from_a_Sombre_Empire
+50585;what style of music does masters of the universe play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Masters_of_the_Universe_(Pulp_album)
+74382;where on earth did r. j. s. stevens die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/R._J._S._Stevens
+56478;who was the executive producer of scary movie 3?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Scary_Movie_3
+48866;what type of music does godisanastronaut make?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/God_Is_an_Astronaut
+47306;Which genre of music is on the album youth & young manhood;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Youth_&_Young_Manhood
+66172;where in the united kingdom was chris giles born in?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Chris_Giles
+50848;What kind of tv program is deadwood;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Deadwood_(TV_series)
+28621;Where was louise glaum born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Louise_Glaum
+57688;what positions have johnny bucha ever played;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Johnny_Bucha
+34061;Where did harley flanagan originate;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Harley_Flanagan
+65551;What record label does tim bogert belong to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Tim_Bogert
+75624;who wrote gameprey;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/Tom_Clancy's_Net_Force_Explorers:_Gameprey
+68799;in which country is st. augustine's college , cape coast located;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/St._Augustine's_College_(Cape_Coast)
+71695;what kind of music does officialspasticink perform?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Spastic_Ink
+54182;what is the baseball position played by art fletcher;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Art_Fletcher
+40052;What genre of music does the album low stars exemplify;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Low_Stars_(album)
+10447;what is the location of drottningholm palace;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Drottningholm_Palace
+10878;what is the time zone of bartonville;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Bartonville,_Texas
+27029;where did amir derakh's life begin;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Amir_Derakh
+53288;Which country was bert shefter born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Bert_Shefter
+02201;Which genre of music does the dog society create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Dog_Society
+14128;"What genre is the music album ""pure dynamite! live at the royal?""";http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Pure_Dynamite!_Live_at_the_Royal
+05577;who produced spies;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Spione
+55107;Who wrote put your head on my shoulder;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Put_Your_Head_on_My_Shoulder
+42679;what genre of music does the album world tour 1980 belong to?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/World_Tour_1980
+28315;who directed the quick gun;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/The_Quick_Gun
+16657;what is delilah's recording label;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Delilah_(musician)
+13849;Which city did adolf berman die in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Adolf_Berman
+48591;What is pavel fort's position;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Pavel_Fořt
+50261;what style of music is catch me?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Catch_Me_(album)
+05707;what label is jo-el sonnier signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Jo-El_Sonnier
+71822;what type of music can be found on the album journey and turning point;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Turning_Point_(McCoy_Tyner_album)
+44291;what musical genre does damien moyal create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Damien_Moyal
+25511;where was george nicol born at?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/George_Nicol_(footballer)
+09087;what kind of music is on creeping in my soul - ep?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Creeping_in_My_Soul
+57837;Where is john paul jones house?;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/John_Paul_Jones_House
+01048;Where was stephanie lawrence born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Stephanie_Lawrence
+37568;what type of film is the waiters ball;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_Waiters'_Ball
+11872;What is the time zone of richland township;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Richland_Township,_Marshall_County,_Illinois
+75810;what type of artist is mao denda;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Mao_Denda
+52962;Who wrote lovely & amazing;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Lovely_and_Amazing
+45885;What language is spoken in gma news live;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/GMA_News_Live
+11569;What country was the film the horror vault: part 1 produced in;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Prince_Daye
+25255;Where did emil lind die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Emil_Lind
+16170;which music genre is cloudland;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Cloudland_(album)
+32794;where was russell bannock given birth;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Russell_Bannock
+43859;What type of pop music does takingbacksunday perform;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Taking_Back_Sunday
+03875;what language is spoken in dhamkee;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Dhamkee
+48305;what is hot hot heat's label;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Hot_Hot_Heat
+70897;what was truman g. madsen's place of death;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Truman_G._Madsen
+72193;what language is spoken in the lone ranger rides again?;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_Lone_Ranger_Rides_Again
+25640;Which genre of music is on the tubular bells album;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Tubular_Bells
+14979;what type of music does pamela racine make;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Pamela_Racine
+67431;What type of music does chit chat von loopin stab play?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Chit_Chat_Von_Loopin_Stab
+58861;Where did rian james;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Rian_James
+38766;Who wrote the song the quiet one;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/The_Quiet_One_(The_Who_song)
+27637;what city is north gaston high school in?;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/North_Gaston_High_School
+31675;what type of music does conefive play?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Cone_Five
+52777;Where did gerry studds die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Gerry_Studds
+39517;what type of show is the man show;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Man_Show
+30625;Where was guido gratton birthed?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Guido_Gratton
+42490;Where was firat arslan birthed;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Firat_Arslan
+54769;Which city was franck montagny born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Franck_Montagny
+52160;where was jose llorens echevarria born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/José_Lloréns_Echevarría
+19969;where was floyd spence born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Floyd_Spence
+52221;which music label is turley richards signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Turley_Richards
+06146;Where was peter hathaway capstick born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Peter_Hathaway_Capstick
+31513;who is the author of the book liars in love;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/Liars_in_Love
+07739;where is voicst from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Voicst
+42886;what position has duane bickett played in american football?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Duane_Bickett
+59328;who is the director of the secret agent x-9 movie;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Secret_Agent_X-9_(1945_serial)
+51209;What baseball position does henry austin play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Henry_Austin_(baseball)
+25855;Name the lyricist on the composition the flood;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/The_Flood_(Katie_Melua_song)
+73677;what is produced by ghajini?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Ghajini_(2008_film)
+24161;what kind of music do the stereophonics record;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Stereophonics
+14314;what position does takashi amano play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Takashi_Amano_(footballer)
+53748;what is the label under which leprous works;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Leprous
+08986;what kind of music does susan hyatt make?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Susan_Hyatt
+37300;where did abdul hafeez die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Abdul_Hafeez_(chemist)
+71002;what is mohammad mokhtari's country of birth?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mohammad_Mokhtari_(writer)
+75302;what company is bobby broom with?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Bobby_Broom
+50260;which field position did derek lewis play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Derek_Lewis
+70286;from what city in Michigan is tyler mcvey from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Tyler_McVey
+55300;what record label does peabo bryson work under;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Peabo_Bryson
+44873;Who wrote the story for the film a heavenly vintage;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/A_Heavenly_Vintage
+45576;where was jim branagan's birth place;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jim_Branagan
+45931;where did the the holy sea originate?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/The_Holy_Sea
+16835;which label is the association signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/The_Association
+29269;where was carlos santos de jesus born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Carlos_Santos_de_Jesus
+32877;What nationaliuty is nikolay shirshov;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Nikolay_Shirshov
+44090;what language is they came back in?;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/They_Came_Back
+32581;what is mike boddicker position in baseball;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Mike_Boddicker
+14652;who wrote milan?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Milan_(1995_film)
+23333;Where was ronit roy born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ronit_Roy
+50127;which genre is the book the house on the borderland;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_House_on_the_Borderland
+48085;what sort of music is blue gene affiliated with;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Blue_Gene_(Gene_Pitney_album)
+50904;Where is vibracathedral orchestra from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Vibracathedral_Orchestra
+17912;To what musical genre does the album The Disruption belong?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Disruption
+27694;who directed the film speed racer;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Speed_Racer_(film)
+71645;what is tilo wolff's chose style of music;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Tilo_Wolff
+50207;Who directed the film haunted - 3d;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Haunted_–_3D
+30797;What type of book is ally?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Ally_(novel)
+67763;Who wrote the movie freeway;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Freeway_(1996_film)
+00948;what label is the artist  plastic crimewave from;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Plastic_Crimewave
+30445;what kind of genre is true romance;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/True_Romance_(Yukari_Tamura_album)
+32536;where was august zehender born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/August_Zehender
+52570;what time zone is purmerend in;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Purmerend
+65636;from what rumanian city is alin litu from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Alin_Lițu
+22733;what football position does phil dokes play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Phil_Dokes
+59945;Who produced my wifes relations;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/My_Wife's_Relations
+11755;who wrote hooked;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Hooked_(film)
+11910;what is the genre in which the artist paint performs in;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Paint_(band)
+12356;where was christophe mandanne born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Christophe_Mandanne
+14016;who is the producer for point break?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Point_Break
+10744;what genre of pop is powder considered;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Powder_(band)
+24872;who was the producer on land of the midnight fun;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Land_of_the_Midnight_Fun
+57642;what was the great gabbo's director's name?;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/The_Great_Gabbo
+13126;Where was don cameron born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Don_Cameron_(balloonist)
+26310;what genre is the cat who could read backwards;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Cat_Who_Could_Read_Backwards
+32068;Where was the birth place of peter durber?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Peter_Durber
+18644;what netflix genre is star runners?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Star_Runners
+53652;which state was devin bush born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Devin_Bush
+66801;who directed the world of henry orient;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/The_World_of_Henry_Orient
+10979;where did georgi iliev die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Georgi_Iliev
+04003;What is the origin of sirkus sirkuz;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Sirkus_Sirkuz
+12812;what is  alberto almicis position in soccer;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Alberto_Almici
+34792;Where in new york did jim gillespie die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Jim_Gillespie_(baseball)
+44686;what illinois city did ed sweeney die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Ed_Sweeney
+01366;Where was mohan upreti born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mohan_Upreti
+23612;which city was mattie moss clark from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Mattie_Moss_Clark
+21748;where was aldo giuffre born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Aldo_Giuffrè
+61888;where is the artist julian casablancas from?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Julian_Casablancas
+65382;what person wrote the film the one million pound note?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/The_One_Million_Pound_Note
+42822;what genre of music does essex chanel fall under;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Essex_Chanel
+50381;what kind of album is up on the sun;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Up_on_the_Sun
+69827;what is the language of the film ramu ustad;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Ramu_Ustad
+23660;how would the besnard lakes' music best be described;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Besnard_Lakes
+70358;which position does piyachart tamaphan play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Piyachart_Tamaphan
+13262;What type of story is zothique;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Zothique_(collection)
+44525;what kind of music does joey defrancesco play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Joey_DeFrancesco
+20007;What position did tim bogar play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Tim_Bogar
+19560;Where was abdoh otaif born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Abdoh_Otaif
+17953;Where was philip pearsall carpenter born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Philip_Pearsall_Carpenter
+71715;What american football position does malcolm frank play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Malcolm_Frank
+09487;what music genre is out of misery;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Out_of_Misery
+14054;which city and state did sara berner die in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Sara_Berner
+17473;where did sulaiman daud die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Sulaiman_Daud
+73373;what kind of music did tony williams lifetime write?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Tony_Williams_Lifetime
+70769;where was juan carlos sanchez, jr. born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Juan_Carlos_Sánchez,_Jr.
+02817;Who produced the film the wheeler dealers?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/The_Wheeler_Dealers
+15648;which time zone is used in east new sarajevo;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Istočno_Novo_Sarajevo
+34634;What language is crumb borne written in;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Crumb_Borne
+30607;which city and state is troy in?;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Troy_(Dorsey,_Maryland)
+39852;what type of video game is highway hunter;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Highway_Hunter
+71358;what city and state did  richard k. sorenson die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Richard_K._Sorenson
+13127;What kind of music is man up?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Man_Up
+57872;what kind of music is played in b sides and rarities album;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/B_Sides_and_Rarities_(Andy_Williams_album)
+18337;where was benjamin w. harris born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Benjamin_W._Harris
+46186;what kinds of book is in the grip of winter;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/In_the_Grip_of_Winter
+07074;what city did dutch clark die in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Dutch_Clark
+41761;where did ernie calverley pass away?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Ernie_Calverley
+49944;is the very best of chic samba or salsa;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Very_Best_of_Chic
+73229;what type of music is andrew wood;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Andrew_Wood_(singer)
+45548;what was the birth place of song il-gon;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Song_Il-gon
+55982;"what is the genre of the album another side of ""singles ii""?";http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Another_Side_of_Singles_II
+45547;what type of genre is ubik?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Ubik
+15273;what type of video game is runescape;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/RuneScape
+30519;what kind of music is played in dizzy heights;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Dizzy_Heights
+44599;What sort of music does adi braun write;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Adi_Braun
+61271;richard shaw brown performs what type of music?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Richard_Shaw_Brown
+15872;which specific kind of music is mickey gilley known for playing;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Mickey_Gilley
+59010;Where did gottfried august homilius die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Gottfried_August_Homilius
+02522;Who directed the film anne of the thousand days;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Anne_of_the_Thousand_Days
+17703;what kind of musician was keith emerson;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Keith_Emerson
+61923;where was 2 cold scorpio born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/2_Cold_Scorpio
+06354;what type music does the dogstar rock group play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Dogstar_(band)
+43616;which european country was karl bohm born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Karl_Bohm_(footballer)
+32593;Which time zone is guilford township located in;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Guilford_Township,_Jo_Daviess_County,_Illinois
+59353;what position does willie norwood play in basketball;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Willie_Norwood_(basketball)
+75040;what city and state was chauncey steele, jr. born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Chauncey_Steele,_Jr.
+13747;what label is emmanuel pahud on;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Emmanuel_Pahud
+71817;where is the lafayette county courthouse located;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Lafayette_County_Courthouse_(Mississippi)
+42967;where was lavr kornilov deceased in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Lavr_Kornilov
+42172;who directed the film ninaithale inikkum;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Ninaithale_Inikkum_(1979_film)
+10119;Which label is pestilenceofficial associated with?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Pestilence_(band)
+05428;What city contains the waterton lakes national park;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Waterton_Lakes_National_Park
+68139;Which genre of book is mrs mcginty's dead?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Mrs_McGinty's_Dead
+25033;in what position does aleksei petrushin play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Aleksei_Petrushin
+61158;what music genre is the woman i loved so well;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Woman_I_Loved_So_Well
+04356;what is the place of death of dirk stikker;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Dirk_Stikker
+49329;who produced the film the third man?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/The_Third_Man
+02044;Where is ernst dohm from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ernst_Dohm
+44300;what is a name of music produced by paul banks;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Paul_Banks_(singer)
+72023;What kind of music does eddy louiss perform?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Eddy_Louiss
+66488;what music genre is sam watters?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Sam_Watters
+06167;who was the producer for traitor;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Traitor_(film)
+04386;What was the genre of labyrinth: the computer game?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Labyrinth:_The_Computer_Game
+21514;What is the nationality of igor protti;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Igor_Protti
+23133;"What is the genre of the book ""The Ice Queen""?";http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Ice_Queen
+18063;luis montalbert-smith along with her music group Gandhi is considered to be within this genre.;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Luis_Montalbert-Smith
+52854;What kind of tv program is dino babies?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Dino_Babies
+28886;what is the nationality of  abigail adams smith;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Abigail_Adams_Smith
+09011;what kind of music is khaled 'bassbaba' sumon;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Bassbaba_Sumon
+48350;What genre of music does chris ivanovich create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Chris_Ivanovich
+44175;which position on the soccer field does lior asulin play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Lior_Asulin
+05649;where was mike gentile born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mike_Gentile
+63670;is black holes and revelations electronica or classical;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Black_Holes_and_Revelations
+27962;who was the lyricist of the composition waterloo sunset?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Waterloo_Sunset
+41651;what city and state was neil goldschmidt born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Neil_Goldschmidt
+69878;what kind of music does aion perform;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Aion_(Polish_band)
+64074;where did albert dietrich die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Albert_Dietrich
+27085;What genre of tv program is skyland;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Skyland
+53672;what genre of music is metatron?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Metatron_(Praxis_album)
+31667;what country gives nationality to nassama asselme;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Massama_Asselmo
+17692;What label is the artist Sweet Tee under?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Sweet_Tee
+43953;Who directed the film edward scissorhands;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Edward_Scissorhands
+30461;What musical genre does the artist og ron c fall under?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/OG_Ron_C
+15413;Who wrote the cruelest month;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/The_Cruelest_Month
+65553;What is the death place of Liang Shih-Chiu;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Liang_Shih-chiu
+71201;what is the origin of the artist corinne bailey rae;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Corinne_Bailey_Rae
+64378;Where was randy elliott's place of birth?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Randy_Elliott
+61197;Where was svetlana surganova born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Svetlana_Surganova
+69619;What genre best describes ylem;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Ylem_(album)
+25234;what non american football position does oier sanjurjo;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Oier_Sanjurjo
+49952;what language is bees saal pehle in;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Bees_Saal_Pehle
+19042;what is the origin of so they say?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/So_They_Say
+45332;What county was jimmy carter born in?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jimmy_Carter_(boxer)
+68735;What soccer position does hector Avalos play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Héctor_Ávalos
+54615;what label is acromatheband signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Acroma_(band)
+29029;What music genre is the artist 23 skidoo?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/23_Skidoo_(band)
+02922;who was the director for primal fear;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Primal_Fear_(film)
+55846;WHat label is matthew good band signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Matthew_Good_Band
+47608;where did johnson die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Johnson_(composer)
+01331;who produced the film the fatal mallet;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/The_Fatal_Mallet
+68943;what position did perpetua nkwocha play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Perpetua_Nkwocha
+60460;What genre of music did jesper stromblad create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jesper_Strömblad
+24055;from which country is jacob huydecoper from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jacob_Huydecoper
+03453;What genre of music does gary breit play?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Gary_Breit
+20303;where is gaylord high school located;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Gaylord_High_School
+21519;Where was Ibrahim aydemir born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/İbrahim_Aydemir
+38519;which city did david c. copley die in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/David_C._Copley
+38572;what position does dick mccormick play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Dick_McCormick
+75478;what defensive position does john morris play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/John_Morris_(outfielder)
+31944;Who's the author of boba fett: a new threat;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/Boba_Fett:_A_New_Threat
+33499;What is the genre of the book The restaurant at the end of the universe?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Restaurant_at_the_End_of_the_Universe
+02895;What position does emil frisk  play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Emil_Frisk
+27379;what genre does athens andover perform;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Athens_Andover
+19551;where in austrailia did peter lawrence die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Peter_Lawrence_(anthropologist)
+11595;what kind of album is taxidermy?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Taxidermy_(Queenadreena_album)
+13778;Does mladen Sekularac play small forward or point guard;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Mladen_Šekularac
+26919;what genre is allan eshuijs?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Allan_Eshuijs
+38970;what is the football position of john townrow;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/John_Townrow
+55335;what language was love and summer written in;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Love_and_Summer
+49530;What music genre would Lucas Silvereia fall into?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Lucas_Silveira_(Brazilian_singer)
+52826;If you found yourself in new tulsa, what time zone would you be in?;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/New_Tulsa,_Oklahoma
+13833;where did reggie carter pass away?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Reggie_Carter
+27951;who is the executive producer for murderball (film);http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Murderball_(film)
+20056;"The album ""Inside this Machine"" is an example of what type of music?";http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Inside_This_Machine
+62394;what position does ila borders play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Ila_Borders
+09025;what kinds of music is roy harper;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Roy_Harper
+55227;where was helen abbott michael born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Helen_Abbott_Michael
+67205;What genre  is the computer video game Dark Earth?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Dark_Earth_(video_game)
+03853;which country is mariano acevedo from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mariano_Acevedo
+27103;what baseball position does ryuma kidokoro play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Ryuma_Kidokoro
+71076;what position does pete ladd play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Pete_Ladd
+53499;Which position does kim clackson play in hockey;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Kim_Clackson
+61615;where was remy hii's place of birth;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Remy_Hii
+71846;where did juliet richardson take her first breath;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Juliet_Richardson
+37423;Where did tod slaughter die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Tod_Slaughter
+35583;en tattendant could best be described by what genre of music?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/En_t'attendant
+50762;who composed swlabr;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/SWLABR
+33479;Where did alice mary robertson die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Alice_Mary_Robertson
+60166;which position does chi man che play in soccer;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Che_Chi_Man
+41045;remixes belongs to what genre of music>;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Remixes_(Four_Tet_album)
+08289;what city and civil parish in the East Hertfordshire was jack trevor story born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jack_Trevor_Story
+34823;what football position does paul dickson play at?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Paul_Dickson_(American_football)
+25558;where was andrea masi born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Andrea_Masi
+43694;what country is juan arango from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Juan_Arango
+37505;re-energized by Kim English is what genre of music?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Re-Energized
+64325;Guys Hospital is located in what city?;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Guy's_Hospital
+24066;where was ivor barnard born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ivor_Barnard
+05810;What label is jermaine scott tied to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Wretch_32
+13482;Where was walther bothe born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Walther_Bothe
+09002;where in the world was drago ibler born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Drago_Ibler
+55329;Where was kim seung-jun's place of birth?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Kim_Seung-jun
+47673;what position does ernst jean-joseph play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Ernst_Jean-Joseph
+74794;who wrote the lyrics to let it go?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Let_It_Go_(Disney_song)
+70292;what type of book is the gods themselves;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Gods_Themselves
+45861;where is the monongahela incline located;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Monongahela_Incline
+40997;where was willem ruis born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Willem_Ruis
+39780;where was momcilo kapor born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Momo_Kapor
+44431;what type of video game is ikari warriors?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Ikari_Warriors
+23974;what kind of music does song chang-sik sing;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Song_Chang-sik
+05346;What is the birth place of antonio gallardo?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Antonio_Gallardo
+60738;what kind of music is silence is sexy;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Silence_Is_Sexy
+00929;where is daniel from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Daniel_(Brazilian_singer)
+31061;which city did fritz odemar die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Fritz_Odemar
+11476;What kind of music does latif sing;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Latif_(singer-songwriter)
+09714;what type of music does minus the machine play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Minus_the_Machine
+30377;what position does ryoichi kurisawa play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Ryoichi_Kurisawa
+57039;where was pekka haavisto born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Pekka_Haavisto
+27340;what country is shabaam sahdeeq from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Shabaam_Sahdeeq
+54035;what baseball position does brandon moss play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Brandon_Moss
+36384;what genre does exit project create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Exit_Project
+29781;who produced the film nang nak;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Nang_Nak
+71947;what genre of music is arcade fire;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Arcade_Fire
+37798;in which polish city was helmut dudek born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Helmut_Dudek
+20993;Where did meganmullinsmusic come from?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Megan_Mullins
+14513;where did paulson start;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Paulson_(band)
+21650;morrowind is under what genre of videogames;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Elder_Scrolls_III:_Morrowind
+27722;What is katie mcgregor place of birth?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Katie_McGregor
+17817;under capricorn was produced by who;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Under_Capricorn
+65472;What kind of music does waka flocka flame mae;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Waka_Flocka_Flame
+73191;if vurnon anita is dutch, which country is he from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Vurnon_Anita
+70915;Who is the writer behind twister;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Twister_(1996_film)
+08633;where did humphry osmond die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Humphry_Osmond
+59841;What is the place of birth of mo cowan;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mo_Cowan
+30974;what type of software is virtuoso universal server;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Virtuoso_Universal_Server
+53649;is dog nail clipper in the finnish language or dutch language;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Dog_Nail_Clipper
+25667;What type of music is the inuit sessions considered to be;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Inuit_Sessions
+41530;what kind of music does faze make?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Faze_(musician)
+74981;what city in Michigan did lord byron die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Lord_Byron_(umpire)
+59465;where was leann rimes born;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/LeAnn_Rimes
+65491;what type of game is elevator action;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Elevator_Action
+02622;where did simon dominic originate from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Simon_Dominic
+38362;what is zeid hamdan's country of nationality?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Zeid_Hamdan
+60597;where in somolia did simmon latutin die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Simmon_Latutin
+30396;where in north carolina was mark mccracken born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mark_McCracken
+17388;What language is the film the great gambler in;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_Great_Gambler
+28189;what country is kyle greentree from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Kyle_Greentree
+64033;What type of musical style does mark mueller belong to?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Mark_Mueller
+73062;where did ludwig donath breathe his last breath;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Ludwig_Donath
+30392;Where was ben tatar born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Benjamin_Tatar
+19987;what type of music does lola blanc make;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Lola_Blanc
+63238;where did les stups originate from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Les_Stups
+45207;what state is rosedale park, detroit within;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Rosedale_Park,_Detroit
+08800;what kind of music is thornography;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Thornography
+60659;who authored the book the copper elephant;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/The_Copper_Elephant
+08496;What kind of rock is played on hemi-vision;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Hemi-Vision
+07669;what language is parugu in;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Varadhi
+17293;what was denis leary's place of birth?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Denis_Leary
+64472;What musical genre is the album water known as?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Water_(EP)
+17121;Where in brazil was bibi ferreira born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Bibi_Ferreira
+51320;what was the place of death of mahmoud hessaby;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Mahmoud_Hessabi
+52007;what kind of music did matt bachand make?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Matt_Bachand
+01996;which label signed the music artist dana gillespie;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Dana_Gillespie
+38357;which country is pascale arbillot from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Pascale_Arbillot
+54626;where did chvrches come from?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Chvrches
+07402;what kind of music is on the album we've come for you all;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/We've_Come_for_You_All
+39031;which country is suzie wilks from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Suzie_Wilks
+73425;where was solomon hill born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Solomon_Hill_(basketball)
+00626;What city was buster rhymes born in?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Buster_Rhymes
+04790;What type of music is recorded on the age of adz;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Age_of_Adz
+52775;which city was chris difford born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Chris_Difford
+62398;The album moejadkatebarry by Maureen Tucker is categorized within which genre?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Moejadkatebarry
+44245;What is the place of birth of vyacheslav sviderskyi;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Vyacheslav_Sviderskyi
+49853;where did ernst zermelo pass away;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Ernst_Zermelo
+09998;What is the genre of the book married to music?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Married_to_Music
+15367;what position did charlie jordan play in baseball?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Charlie_Jordan_(baseball)
+50444;Who directed an awfully big adventure;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/An_Awfully_Big_Adventure
+33739;What is the original language of daughter of venice?;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Daughter_of_Venice
+75070;where did richard quine pass away;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Richard_Quine
+74354;which city is lefty hoerst from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Lefty_Hoerst
+25801;Where did marc armand ruffer pass away;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Marc_Armand_Ruffer
+46077;where did albert b. fall die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Albert_B._Fall
+48920;Which British city did la roux originate;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/La_Roux
+39317;what kind of music is shimmies in super 8;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Shimmies_in_Super_8
+51518;Who is the inbreds signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/The_Inbreds
+37992;Where is pmmp from?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/PMMP
+48872;where was john phillip law given birth;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/John_Phillip_Law
+09278;who created the story for the americanization of emily;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/The_Americanization_of_Emily
+27561;what position does hockey player michael houser play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Michael_Houser_(ice_hockey)
+74254;what is the genre of lorie?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Lorie_(singer)
+22312;what types of music is played by harold faltermeyer;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Harold_Faltermeyer
+55954;what kind of music is niclas engelin associated with;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Niclas_Engelin
+60020;what germany city was  tony d born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Tony_D_(rapper)
+22004;who wrote city of women;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/City_of_Women
+57230;what sort of book is the white album;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_White_Album_(book)
+53577;where was peter yates given birth at?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Peter_Yates
+57794;what company is hal ketchum with?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Hal_Ketchum
+10594;Who directed ashik kerib;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Ashik_Kerib_(film)
+01925;Who produced dr seuss on the loose?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Dr._Seuss_on_the_Loose
+11017;What was john deakin's position in football?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/John_Deakin_(footballer)
+49471;Which time zone is brilliant located in;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Brilliant,_Alabama
+01745;what position does jonathan tabu play in basketball;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Jonathan_Tabu
+29475;where did mario pergolini take his first breath;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mario_Pergolini
+56694;what classical form of music is matus tomko;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Matus_Tomko
+39039;what position does aaron laffey play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Aaron_Laffey
+54173;Where was alfredo bryce born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Alfredo_Bryce
+05497;What genre is eidolon i?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Eidolon_I
+40628;What language is spoken on baltic robinson;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Baltic_Robinson
+62241;Which position did von hayes play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Von_Hayes
+28388;what time zone is umm qasr located;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Umm_Qasr
+35924;What is the language in the film andrine og kjell;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Andrine_og_Kjell
+35826;where was ravid gazal given birth;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ravid_Gazal
+59809;What kind of music is the album stars?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Stars_(Simply_Red_album)
+05457;where was ferenc szabo born at?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ferenc_Szabó
+14067;which genre does the artist marc cohn perform in;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Marc_Cohn
+60500;what is dosa junior's nationality?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Dossa_Júnior
+43731;Where did peter fernandez pass away;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Peter_Fernandez
+03191;which language is spoken by the bahamian american;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Bahamian_Americans
+41741;what kinds of music is created by jayson sherlock;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jayson_Sherlock
+57288;what position in soccer does  keith stevens play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Keith_Stevens
+75063;who directed a fistful of dollars;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/A_Fistful_of_Dollars
+24339;what is dusan markovic's place of birth?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Dušan_Marković
+60628;what type of music is scott murphy known for?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Scott_Murphy_(musician)
+35457;What type of music does the soulive album play?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Soulive
+54914;where was kimble anders's birthplace;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Kimble_Anders
+36351;Where was jerome mcdougle born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jerome_McDougle
+14197;what kind of rock album is if you want blood youve got it;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/If_You_Want_Blood_You've_Got_It
+42773;what kind of music is on punk goes pop 3?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Punk_Goes_Pop_3
+10864;Where was Cody Horn born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Cody_Horn
+71654;What is the nationality of ali zeidan?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ali_Zeidan
+26706;the mofo project/object is what form of music;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_MOFO_Project/Object
+54658;where in the world was ron plumb born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ron_Plumb
+75627;what kinds of movie is wilco live: ashes of american flags;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Wilco_Live:_Ashes_of_American_Flags
+62114;What kind of music is the album motown remixed?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Motown_Remixed
+62642;Where did proof (rapper) pass away?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Proof_(rapper)
+74802;who produced havoc?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Havoc_(1972_film)
+13210;in what french city did georges depping die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Georges_Depping
+39139;who is the composer of funkytown?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Funkytown
+18794;Which time zone is lafayette located in;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Lafayette,_Chippewa_County,_Wisconsin
+32176;Where was mick neville born in?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mick_Neville_(footballer)
+16161;Where did johann gottlieb naumann die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Johann_Gottlieb_Naumann
+06582;What genre of artist is eric ineke?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Eric_Ineke
+21711;What genre of music is the best of cameo, volume 2?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Best_of_Cameo,_Volume_2
+03930;in what position does kevin witt play in;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Kevin_Witt
+55117;which county is william wyatt bibb from?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/William_Wyatt_Bibb
+65044;Who directed uncovered: the war on iraq;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Uncovered:_The_War_on_Iraq
+45685;What language do the characters speak in the house by the cemetery;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_House_by_the_Cemetery
+10287;What language is cheongdam-dong alice in?;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Cheongdam-dong_Alice
+16446;Where did gary geiger pass away;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Gary_Geiger
+51960;what country gives nationality to ibrahim mahlab;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Ibrahim_Mahlab
+24866;what kind of music does alec empire perform;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Alec_Empire
+08230;what genre of music is razorblade suitcase categorized as;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Razorblade_Suitcase
+67944;who wrote the film tuck everlasting (2002 film);http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Tuck_Everlasting_(2002_film)
+25363;what city is demon hunter from?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Demon_Hunter
+17772;Where did Volodymyr Sosyura die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Volodymyr_Sosiura
+70843;Under what genre is the tv program fermentation family categorized;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Fermentation_Family
+06894;is freddy juarez from the united states or mexico;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Freddy_Juarez
+56308;who wrote 10:30 p.m. summer;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/10:30_P.M._Summer
+64612;where was jason davis born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jason_Davis_(baseball)
+39112;What is the genre of the album paradise lost?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Paradise_Lost_(Cirith_Ungol_album)
+10229;which language is featured in amarilly of clothes-line alley;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Amarilly_of_Clothes-Line_Alley
+06857;What genre of music does psydoll play?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Psydoll
+32750;what music label signed heavy metal kids;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Heavy_Metal_Kids
+06498;What position does football player Li Wei play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Li_Wei_(footballer,_born_1985)
+35664;yeniel bermudez plays what soccer position?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Yeniel_Bermúdez
+73031;What sort of music does doctors of madness play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Doctors_of_Madness
+14909;which football position is doug somner charged of;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Doug_Somner
+67211;what language is spoken in the movie colonel kwiatkowski;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Pułkownik_Kwiatkowski
+21443;what kinds of book is lord foul's bane;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Lord_Foul's_Bane
+07109;which baseball position does hector noesi play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Héctor_Noesí
+29315;what kind of book is the ghost pirates?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Ghost_Pirates
+58560;Does bang camaro ii play heavy metal or glam metal;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Bang_Camaro_II
+55203;what is the genre of the album dose;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Dose_(album)
+59270;which country was lena adelsohn liljeroth born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Lena_Adelsohn_Liljeroth
+61308;What style of music is adam duritz known for?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Adam_Duritz
+50796;what type of game is fire emblem: shadow dragon;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Fire_Emblem:_Shadow_Dragon
+46229;who composed (youre) having my baby;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/(You're)_Having_My_Baby
+47756;where did the artist love ends disaster!  originate from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Love_Ends_Disaster!
+43306;in which time zone is webbers falls located;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Webbers_Falls,_Oklahoma
+01791;what type of video game genre was jackie chan's action kung fu;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jackie_Chan's_Action_Kung_Fu
+27771;who wrote the film tiger eyes;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Tiger_Eyes_(film)
+22828;what is the genre of  girl talk (musician);http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Girl_Talk_(musician)
+51044;where is nathan green gordon's place of death;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Nathan_Green_Gordon
+04636;What kind of music is played on don't explain;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Don't_Explain_(Beth_Hart_and_Joe_Bonamassa_album)
+44038;What genre of music is exhibited by the album in jesus;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/In_Jesus
+45496;Who directed Wedding Crashers?;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Wedding_Crashers
+65422;Who is the author of the novel of mice and men?;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/Of_Mice_and_Men_(play)
+35718;What genre is the title melissa & joey;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Melissa_&_Joey
+28906;where did jan jakob maria de groot spend their final days;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Jan_Jakob_Maria_de_Groot
+01173;what city and state is  st. mary's episcopal church, found;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/St._Mary's_Episcopal_Church,_(Flandreau,_South_Dakota)
+03581;where was eric robertson born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Eric_Robertson_(composer)
+68151;what football position does keenan lewis  play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Keenan_Lewis
+11720;who produced the film for me and my gal;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/For_Me_and_My_Gal_(film)
+48770;whats the genre of the game mr. do's castle;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Mr._Do's_Castle
+21034;who wrote under the green star;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/Under_the_Green_Star
+38067;where was peter quilter born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Peter_Quilter
+67544;what genre of fiction is see delphi and die;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/See_Delphi_and_Die
+57579;what kind of music does will saul create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Will_Saul
+10423;Who directed the film iguana?;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Iguana_(film)
+45176;Where did the jerry garcia acoustic band originate from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Jerry_Garcia_Acoustic_Band
+53293;Which city in america was kelly clarkson born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Kelly_Clarkson
+11924;which city did freddy bienstock die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Freddy_Bienstock
+36090;which label does malice mizer work for;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Malice_Mizer
+43625;Which football position does nizami hajiyev play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Nizami_Hajiyev
+69622;where was the origin of raul seixas?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Raul_Seixas
+23511;where in the united states did robert w. upton pass away?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Robert_W._Upton
+49405;where in india was laxminarayan pandey born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Laxminarayan_Pandey
+56015;which city was gerold schwarzenbach born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Gerold_Schwarzenbach
+62366;what greater los angeles city is the origin of alan o'day;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Alan_O'Day
+15229;Who penned when you wish upon a star?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/When_You_Wish_upon_a_Star
+11323;What language is predominant in the blade and petal;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_Blade_and_Petal
+15945;what kind of album is payment of existence;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Payment_of_Existence
+57302;what type of music does jimmy webb make;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jimmy_Webb
+70533;What  label is the artist jtillman signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/J._Tillman
+74979;Who directed the movie part time pal?;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Part_Time_Pal
+67914;what type of book is nightrise?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Nightrise
+40552;In what country was joshua herrick born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Joshua_Herrick
+09089;What genre is the album cold day memory?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Cold_Day_Memory
+66635;where in south america is dario segovia from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Darío_Segovia
+75664;who is the writer for the episode bowie (flight of the conchords);http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Bowie_(Flight_of_the_Conchords)
+65774;what type of software is bombus;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Bombus_(software)
+52763;what sort of music is solaris;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Solaris_(Elliot_Minor_album)
+31704;where was francois payard born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/François_Payard
+14450;Where is vince gill from?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Vince_Gill
+32010;who is the author of the comforters;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/The_Comforters
+74539;Which country was robert teah from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Robert_Teah
+31116;What type of pop does young heretics play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Young_Heretics
+27663;what software genre is kopete a part of;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Kopete
+40561;who produced a fine feathered frenzy;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/A_Fine_Feathered_Frenzy
+59938;who wrote la reine margot;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/La_Reine_Margot_(novel)
+51664;what position does fabian taylor play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Fabian_Taylor
+29751;where did  babik reinhardt die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Babik_Reinhardt
+11236;where in texas is kamichael hall from originally;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/KaMichael_Hall
+04813;Where was alexander mitchell born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Alexander_Mitchell
+51720;What is the nationality of radner muratov?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Radner_Muratov
+09786;where did theodore achilles die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Theodore_Achilles
+34707;What position does Jeff Francis play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Jeff_Francis
+18264;what was jimmy ring's place of birth;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jimmy_Ring
+15812;Which position is played by jean-jacques yemweni;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Jean-Jacques_Yemweni
+54764;who produced cactus;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Cactus_(1986_film)
+01237;What kind of punk music do the cover ups play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Cover_Ups
+41313;which city was the place of death of robert d. orr;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Robert_D._Orr
+29134;who was the director of not on the lips;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Not_on_the_Lips
+25505;what pop female artists made the song whoops now/whatll i do;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Whoops_Now/What'll_I_Do
+28826;what specific genre is today;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Today_(group)
+32707;who directed  forbidden fruit;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Forbidden_Fruit_(1921_film)
+13758;what kind of music is on suddenly?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Suddenly_(Billy_Ocean_album)
+70153;what genre is the album season of glass;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Season_of_Glass
+18150;where did arnold gingrich die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Arnold_Gingrich
+45401;where in the united states did john kennedy toole die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/John_Kennedy_Toole
+71141;What is the nationality of mael lepicier?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Maël_Lépicier
+32626;Who wrote the film komedie om geld;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/The_Trouble_With_Money
+74028;where was the last place samuel marx resided before he died;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Samuel_Marx
+09732;what kind of music does jean-michel pilc make;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jean-Michel_Pilc
+18831;Which nation is brenden morrow originally from?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Brenden_Morrow
+53125;What language is used in el condor pasa;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/El_Cóndor_Pasa_(song)
+63000;what type of music is punch the clock;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Punch_the_Clock
+04717;what was the original language for the bok  the wonderful lips of thibong linh;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_Wonderful_Lips_of_Thibong_Linh
+12229;carol plum-ucci was born in which north east US city?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Carol_Plum-Ucci
+51349;what position does reggie rembert play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Reggie_Rembert
+19021;what kind of music is on ep + 2?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/EP_(Mogwai_EP)
+21879;what is a language featured in the tenderness of wolves;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/The_Tenderness_of_Wolves_(film)
+63576;what recording label is little willie john signed with;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Little_Willie_John
+22428;what kind of music is on all the pretty boys?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/All_the_Pretty_Boys
+40790;what kind of genre is the nervous return;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Nervous_Return
+67230;where in pakistan was nadeem aslam born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Nadeem_Aslam
+42300;Where was hiroki takahashi born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Hiroki_Takahashi
+28331;what type of game is nhl 2003;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/NHL_2003
+09816;what type of program is the outer limits?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Outer_Limits_(1963_TV_series)
+69217;what kind of music is peter cincotti known for writing;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Peter_Cincotti
+26906;what music is king bee known for?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/King_Bee_(band)
+00421;which city was shmuel salant born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Shmuel_Salant
+12902;what is the place of death for david m. shoup;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/David_M._Shoup
+68197;who wrote the adjuster;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/The_Adjuster
+33914;what genre was the elves of cintra written in;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Elves_of_Cintra
+00275;leo durocher is what in relation to baseball?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Leo_Durocher
+72582;what position does john crowley play in baseball;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/John_Crowley_(baseball)
+02524;where was dejan borovnjak born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Dejan_Borovnjak
+21727;what is the place of birth for louis de guiringaud;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Louis_de_Guiringaud
+75415;Which genre of music is gary hoey known for?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Gary_Hoey
+11560;Where was antoine danchet born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Antoine_Danchet
+57189;Where is ryan malcolm from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Ryan_Malcolm
+17422;what is buckner stith morris' place of birth;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Buckner_Stith_Morris
+70893;who is the author of jihad vs. mcworld?;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/Jihad_vs._McWorld
+47864;what defensive position does jordi codina play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Jordi_Codina
+75645;what type of music does dexter wansel make;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Dexter_Wansel
+54323;what label is masami tsuchiya a part of;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Masami_Tsuchiya
+73437;What type of film genre is all i want?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/All_I_Want_(Rufus_Wainwright_DVD)
+01765;What kind of genre is the frailty of words?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Frailty_of_Words
+18158;In which city was william s. tilton born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/William_S._Tilton
+25523;what genre is the artist korey cooper;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Korey_Cooper
+52964;what label is johnny diesel under;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Diesel_(musician)
+49660;who wrote lyrics to haters?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Haters_(Tony_Yayo_song)
+28891;who wrote cover up?;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/Cover_Up_(Feinstein_novel)
+16148;what city did carlos marcello die in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Carlos_Marcello
+36255;what football position does george nanchoff play at?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/George_Nanchoff
+03430;who is the composer of girls & boys;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Girls_&_Boys_(Blur_song)
+14815;what is the best way to describe scorn;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Scorn_(band)
+46477;What time zone is magnolia township included in;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Magnolia_Township,_Putnam_County,_Illinois
+22725;where is the birthplace of gary grainger;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Gary_Grainger
+58371;what continent is robert helpmann from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Robert_Helpmann
+15849;where did ellis rimmer die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Ellis_Rimmer
+69711;who directed the gangs all here;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/The_Gang's_All_Here_(1943_film)
+00212;which video game genre is sauerbraten (game);http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Cube_2:_Sauerbraten
+45229;what position does pete liske play in american football;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Pete_Liske
+20180;which language do the people in older than america speak;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Older_than_America
+36729;who was the composer for sorrow;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Sorrow_(The_McCoys_song)
+61412;what is the language of the movie  barbie as the island princess;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Barbie_as_the_Island_Princess
+41184;what kind of music is the fur and gold album;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Fur_and_Gold
+06144;under which label does the artist heart work;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Heart_(band)
+71737;Who produced the film five star final?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Five_Star_Final
+36180;where was  tony camazzola born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Tony_Camazzola
+23715;what is bobby abreu baseball position;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Bobby_Abreu
+21332;what kind of music does scott gorham produce;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Scott_Gorham
+36315;what is the place of birth of theodore motzkin;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Theodore_Motzkin
+20255;which language is written in stranger with my face;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Stranger_with_My_Face
+55880;What genre of book is serpent mage;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Serpent_Mage
+21482;What is the birth place of raoul bova?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Raoul_Bova
+71178;where in the united states did billy joe daugherty die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Billy_Joe_Daugherty
+33718;what record is produced by ronnie mcdowell;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Ronnie_McDowell
+43552;what type of music does kassav perform?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Kassav'
+52771;what was the place of death of enrico de nicola;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Enrico_De_Nicola
+25418;Who directed the movie american graffiti;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/American_Graffiti
+72871;what country is paul kligman from?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Paul_Kligman
+35894;who is the composer of the song because the night?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Because_the_Night
+70052;WHat kind of music is panic prevention;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Panic_Prevention
+64836;where did walter sickert die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Walter_Sickert
+30455;what type of series is californication (tv series)?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Californication_(TV_series)
+07889;Which language is in the film anubhav;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Anubhav
+20972;Where was robert nikolic born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Robert_Nikolic
+10151;what is walt williams's position;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Walt_Williams_(baseball)
+61341;Where did the artist streetdrumcorps originate;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Street_Drum_Corps
+67610;what types of music is played by ivar medaas;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Ivar_Medaas
+60426;What position does mike palagyi play in baseball;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Mike_Palagyi
+44011;what kinds of music is played by kimmo blom;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Kimmo_Blom
+13897;who made the film the lavender hill mob;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/The_Lavender_Hill_Mob
+25062;Who produced the film the pawnbroker;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/The_Pawnbroker_(film)
+37414;what position does anthony fasano play in football;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Anthony_Fasano
+26983;american dreamz is a film executively produced by who?;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/American_Dreamz
+35702;what time zone is saint barthelemy in;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Saint_Barthélemy
+17816;what type of music is featured in part primitiv;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Part-Primitiv
+56330;What genre of computer videogame is psycho fox;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Psycho_Fox
+09635;What album genre would sivaji: the boss fall into;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Sivaji_(soundtrack)
+27347;Who created the story for the film teenage mutant ninja turtles;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles_(2014_film)
+00286;What genre is the tv program code lyoko;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Code_Lyoko
+20744;which country did sir anthony jackson pass away in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Sir_Anthony_Jackson
+49531;what type of game is jeff waynes the war of the worlds;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jeff_Wayne's_The_War_of_the_Worlds_(1998_video_game)
+23644;what genre is the album 2001;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/2001_(Dr._Dre_album)
+41635;What's the time zone in farmington township;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Farmington_Township,_Olmsted_County,_Minnesota
+64728;what position does sylvain cloutier play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Sylvain_Cloutier
+23717;what country holds jacek dembinski's nationality;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Jacek_Dembiński
+32836;what european city did dorian shainin die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Dorian_Shainin
+15518;in what city was kalimba born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Kalimba_(singer)
+33489;Where was sean mathias birthed;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Sean_Mathias
+73219;What genre is superpop venezuela?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Super_Pop_Venezuela
+43534;What country is steven morris from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Stephen_Morris
+34051;which label does eddie rabbitt release music on;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Eddie_Rabbitt
+51768;what label is fayray signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Fayray
+12410;where did gabriel coury pass away;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Gabriel_Coury
+01377;What position does jorg hahnel play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Jörg_Hahnel
+12025;the book the mummy, or ramses the damned was done in what genre;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Mummy,_or_Ramses_the_Damned
+12522;What type of album is mist king urth?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Mist_King_Urth
+07346;where in the world was yannick alleno born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Yannick_Alléno
+35962;What genre is johnny heartsman known for?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Johnny_Heartsman
+07950;which recording label signed bilinda butcher;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Bilinda_Butcher
+74493;where was bassel bawji born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Bassel_Bawji
+00671;What type of metal does dagoba perform;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Dagoba_(band)
+10574;What kind of music did ricky wilson play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Ricky_Wilson_(American_musician)
+25263;Which label is bluey incognito on?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Incognito_(band)
+19835;what city did jack keller die in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Jack_Keller_(songwriter)
+46560;Where was mykola livytskyi born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mykola_Livytskyi
+63630;does jon astley play rock music or electronic music;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jon_Astley
+06415;where in california was wild man fischer born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Wild_Man_Fischer
+31854;who was triplet trouble directed by;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Triplet_Trouble
+37931;what kind of fictional book is behold the man;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Behold_the_Man_(novel)
+30192;What genre of music is maschera?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Maschera
+09547;where was masato tsujioka born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Masato_Tsujioka
+51913;Who wrote haggard: the movie?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Haggard:_The_Movie
+10753;What type of album is siam shade tribute?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Siam_Shade_Tribute
+66714;what time zone is little america a part of;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Little_America,_Wyoming
+72080;where in the midwest is bobby joe hill's place of death?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Bobby_Joe_Hill
+41915;in what time zone is pincehely located;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Pincehely
+30876;what city did cliff aberson die in;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Cliff_Aberson
+59326;Which language is the tv program babangon akot dudurugin kita in;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Babangon_Ako't_Dudurugin_Kita
+32905;What kind of tv genre is together forever?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Together_Forever_(2012_TV_series)
+67878;what label is fugazi signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Fugazi
+52286;what position has sachin gawas ever played;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Sachin_Gawas
+31385;What position does wilson palacios play for stoke city;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Wilson_Palacios
+67622;What label signed the artist jenny lewis;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Jenny_Lewis
+18776;who made the screenplay for om shanti om;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Om_Shanti_Om
+50616;WHat genre is soulwax;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Soulwax
+00711;what type of album is hot! live and otherwise?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Hot!_Live_and_Otherwise
+75785;What genre of music is monique brumby;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Monique_Brumby
+05068;What language is the show majika in?;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Majika
+03994;what is social code's label?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Social_Code
+41823;Which city was neil hopkins born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Neil_Hopkins
+31779;What language is spoken by frisians;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Frisians
+10663;what was the place of birth of cristian vella;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Cristian_Vella
+09243;where did robert stevenson die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Robert_Stevenson_(civil_engineer)
+03996;what state will you find the trinity methodist episcopal church and rectory;http://dbpedia.org/ontology/location;http://dbpedia.org/resource/Trinity_Methodist_Episcopal_Church_and_Rectory_(Poughkeepsie,_New_York)
+67891;what kind of music is on sowiesoso?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Sowiesoso
+23419;which language is spoken in the movie chhota bheem & ganesh;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Chhota_Bheem_&_Ganesh
+19954;which city was paul wittich born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Paul_Wittich
+46215;what genre is the album girl you know it's true;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Girl_You_Know_It's_True
+14123;What genre is the album apollo;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Apollo_(Nebula_album)
+09847;Where did bud millikan die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Bud_Millikan
+02228;Which city was edward stourton born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Edward_Stourton_(journalist)
+30554;which city was christopher moynihan born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Christopher_Moynihan
+43392;who wrote the screenplay for umbartha;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Umbartha
+44635;what kind of music is the icemen;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Icemen
+75493;what country is andre lacroix from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/André_Lacroix_(ice_hockey)
+59383;what director directed speed racer;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Speed_Racer_(film)
+66994;who is the producer of the a night at the roxbury film;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/A_Night_at_the_Roxbury
+17529;What is the kind of music that savoy brown makes;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Savoy_Brown
+60238;What type of genre does simon jones perform;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Simon_Jones_(musician)
+12629;where was mark gilroy born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mark_Gilroy
+37108;What is the birthplace of francoise brion;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Françoise_Brion
+67330;What time zone is used in flensburg;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Flensburg,_Minnesota
+66218;which city did daniel webster jones die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Daniel_Webster_Jones_(governor)
+27506;where was tanni grey-thompson born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Tanni_Grey-Thompson
+74344;which genre is the album brown book (album);http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Brown_Book_(album)
+64997;what nationality is mia;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mia_(singer)
+09088;what country is anna popplewell from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Anna_Popplewell
+67824;What genre of music does capital kings perform?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Capital_Kings
+24074;what is the position that chuck howley plays?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Chuck_Howley
+46687;what record label is sade with?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Sade_(band)
+57186;where was siddiq barmak born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Siddiq_Barmak
+41035;What genre of novel is neveryona?;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Neveryóna
+49493;Under what genre woulddavid barbe be classified;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/David_Barbe
+10456;What language is spoken in dhara;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Dhara_(film)
+27359;what kind of jazz does keiko matsui play;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Keiko_Matsui
+26454;What kind of music is the album know hope collective?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Know_Hope_Collective_(album)
+46527;what language is on the film ssukh;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Ssukh
+30819;who composed ballad of easy rider;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Ballad_of_Easy_Rider
+46692;What position in football does john macdonald play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/John_MacDonald_(footballer)
+02099;who created the song  the tracks of my tears;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/The_Tracks_of_My_Tears
+51095;which record label is imitation electric piano in?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Imitation_Electric_Piano
+12967;who is a producer of a movie called legally blonde 2;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Legally_Blonde_2:_Red,_White_&_Blonde
+30094;what position in baseball does harry spratt play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Harry_Spratt
+75244;Where in Australia was leon mestel born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Leon_Mestel
+61617;what position does ryan semple play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Ryan_Semple_(footballer,_born_1985)
+73317;what kind of music can be found on the album peta strana sveta;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Peta_strana_sveta
+72389;What style of music does leonard zhakata play?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Leonard_Zhakata
+04795;What genre is the album give out but dont give up;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Give_Out_But_Don't_Give_Up
+47647;what kinds of music is the crai-eps 1993/1994;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/The_Crai-EPs_1993/1994
+35485;Which label is the artist dave valentin signed to;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Dave_Valentin
+50491;Who wrote lavondyss;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/Lavondyss
+26442;where did henry dawson die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Henry_Dawson_(artist)
+09484;Where did marcello viotti die?;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Marcello_Viotti
+26905;which actor wrote behind the screen;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Behind_the_Screen
+52561;whats the genre of  my gentleman friend;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/My_Gentleman_Friend
+11661;what genre of music is the album electrical storm in?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Electrical_Storm_(album)
+75219;Who authored the red tree;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/The_Red_Tree_(Shaun_Tan)
+06808;what music genre is el poder de las mujeres?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/El_poder_de_las_mujeres
+40349;where was  antoine chessex born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Antoine_Chessex
+03178;who wrote the brighter buccaneer;http://dbpedia.org/ontology/author;http://dbpedia.org/resource/The_Brighter_Buccaneer
+20360;what kinds of music is played by 2cents;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/2Cents
+74345;what type of music does jerry horton create;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jerry_Horton
+52688;where was carol duboc given birth;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Carol_Duboc
+57149;which country is andrei kirilenko from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Andrei_Kirilenko
+43065;where is the techno artist marusha from?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Marusha
+62853;What is the music genre of the album mirrors by Blue Oyster Cult?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Mirrors_(Blue_Öyster_Cult_album)
+51571;what is the genre of the artist d'masiv;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/D'Masiv
+49762;What kind of video games is x-zone;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/X-Zone
+02348;where was hal quick born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Hal_Quick
+27537;What soccer position does rajiv van la parra play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Rajiv_van_La_Parra
+50379;What kind of program is mad money;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Mad_Money
+17252;what type of game is b.c. ii: grogs revenge;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/B.C._II:_Grog's_Revenge
+68199;what city was cliff solway given birth in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Cliff_Solway
+08823;what type of music is a day late and a dollar short;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/A_Day_Late_and_a_Dollar_Short
+69525;what position on the field does damien tixier play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Damien_Tixier
+07181;What type of music is jim rooney;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Jim_Rooney_(music)
+15874;Which country does elizabeth jagger have nationality in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Elizabeth_Jagger
+02685;what type of tv show is sin senos no hay paraiso?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Sin_Senos_no_Hay_Paraíso
+06510;What position did paul slane play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Paul_Slane
+18479;what is the label of the artist mike d?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Mike_D
+58051;what type of program is silence;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Silence_(TV_series)
+74986;where was dave rude born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Dave_Rude
+41653;Who was the director of the pilot episode;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/Pilot_(Community)
+27705;Which city was oliver dickinson born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Oliver_Dickinson
+45617;Which european country is tom vanstiphout from?;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Tom_Vanstiphout
+31075;who wrote bluebeard;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Bluebeard_(1972_film)
+06139;what position does ignas dedura play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Ignas_Dedura
+59678;what kind of music is ensemble mik nawooj;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Ensemble_Mik_Nawooj
+48194;which position does eddie rutherford play in football?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Eddie_Rutherford
+22266;Which time zone is copacabana apart of?;http://dbpedia.org/ontology/timeZone;http://dbpedia.org/resource/Copacabana,_Bolivia
+24862;where did absalom baird die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Absalom_Baird
+61207;what position is billy lynn in football;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Billy_Lynn
+28386;What label is luke johnson a part of?;http://dbpedia.org/ontology/recordLabel;http://dbpedia.org/resource/Luke_Johnson_(musician)
+60051;Which genre is the album electronic earth?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Electronic_Earth
+50866;cuatro caminos would be considered what genre of music?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Cuatro_Caminos
+26779;Which city was radmila hrustanovic born in;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Radmila_Hrustanović
+08051;What kind music does capsula make;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Capsula
+64937;Where was george edwin king born?;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/George_Edwin_King
+32031;Who composed nice & slow?;http://dbpedia.org/ontology/writer;http://dbpedia.org/resource/Nice_&_Slow
+70407;where was mina (singer) born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Mina_(singer)
+44528;Which genre is the book club dead part of;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/Club_Dead
+75301;Where did ferenc gordon die;http://dbpedia.org/ontology/deathPlace;http://dbpedia.org/resource/Ferenc_Gordon
+03618;What position does dharmaraj ravanan play;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Dharmaraj_Ravanan
+53455;Which genre is the book valley of the squinting windows from;http://dbpedia.org/ontology/literaryGenre;http://dbpedia.org/resource/The_Valley_of_the_Squinting_Windows
+62917;What genre of music does the band 7thdayslumber produce;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Seventh_Day_Slumber
+67144;Who produced the film kurenai no tsubasa;http://dbpedia.org/ontology/producer;http://dbpedia.org/resource/Kurenai_no_tsubasa
+75189;where is walker hayes from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Walker_Hayes
+69483;where was hugh hastings born;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Hugh_Hastings
+47987;who directed the film the pillow book;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/The_Pillow_Book_(film)
+21372;What type of genre is klovn;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Klovn
+62885;what kind of music is featured in the christine mcvie album;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Christine_McVie_(album)
+72546;what language  did filipino people of spanish ancestry speak;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/Filipino_people_of_Spanish_ancestry
+21836;torched is considered what type of music;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Torched_(album)
+65397;what position does carl taseff play?;http://dbpedia.org/ontology/position;http://dbpedia.org/resource/Carl_Taseff
+11019;what type of album is  moloch: book of angels, volume 6;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/Moloch:_Book_of_Angels_Volume_6
+66835;What is the language of the tv program my husbands lover?;http://dbpedia.org/ontology/language;http://dbpedia.org/resource/My_Husband's_Lover
+03539;which city is circulatory system from;http://dbpedia.org/ontology/hometown;http://dbpedia.org/resource/Circulatory_System_(band)
+73560;what kind of program is my kitchen rules?;http://dbpedia.org/ontology/genre;http://dbpedia.org/resource/My_Kitchen_Rules
+42090;where is anatoliy vlasichev from;http://dbpedia.org/ontology/birthPlace;http://dbpedia.org/resource/Anatoliy_Vlasichev
+12336;who directed the crowd roars;http://dbpedia.org/ontology/director;http://dbpedia.org/resource/The_Crowd_Roars_(1938_film)
