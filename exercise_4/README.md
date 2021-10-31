@@ -15,7 +15,7 @@ Please note, that in this exercise we implement the QA system only for so-called
 
 0. Re-train relation prediction model based on the new data (see [repository]());
 1. Combine all the components together as it's shown in the Figure above (Note: each component has to be wrapped into a web-service);
-2. Implement a Web Service that is orchestrating your components -- it will recieve requests and send responses to a user (check what is [microservice architecture](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)).
+2. Implement a Web Service that is calling your components (API Gateway) -- it will recieve requests and send responses to a user (check what is [microservice architecture](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)).
 
 Please, try to start structuring your code into different functions and modules. Additionally, store queries, templates, and config parameters in separate files ([hardcoding](https://softwareengineering.stackexchange.com/questions/368448/how-can-hard-coding-be-considered-a-code-smell-in-the-age-of-micro-services) is an antipattern).
 
