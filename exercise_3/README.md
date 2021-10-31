@@ -1,3 +1,5 @@
+# Exercise 3: SPARQL Queries over DBpedia & Wikidata
+
 ## Context
 
 In our course we mainly study Question Answering systems over Knowledge Graphs (KGs). In its turn, KGs are mainly stored using [Resource Description Framework (RDF)](https://www.w3.org/TR/rdf-syntax-grammar/). RDF is a specification for modeling data (mainly on the Web). The data in RDF is modelled in so-called triples, which is a structure that has `<Subject>`, `<Predicate> (or <Relation>)`, and `<Object>`. For example, `<Mona Lisa> <AuthoredBy> <Leonardo Da Vinci>`. RDF has many vocabularies that extend its applicability. One of the popular RDF use cases that we use everyday is schema.org vocabulary, that is used to markup HTML pages of Online Stores for better Search Engine Optimization (SEO).
@@ -16,7 +18,7 @@ Depending on your exercise variant manually write SPARQL queries for the corresp
 
 Describe you findings during writing the queries. What's common and different in DBpedia and Wikidata?
 
-After you wrote and checked that your queries are executable, write a scripts that reads a query, executes it on a knowledge graph, fetches the answer, and writes it to a JSON file of the following structure:
+After you wrote and checked that your queries are executable, write a script that reads a query, executes it on a knowledge graph, fetches the answer, and writes it to a JSON file of the following structure:
 
 ```
 [
@@ -29,6 +31,8 @@ After you wrote and checked that your queries are executable, write a scripts th
   }
 ]
 ```
+
+Get inspired with the queries from the [example variant](https://github.com/Perevalov/qa_chatbots_exercises/blob/7d4984a6e8a218a3f657c83a7235f06e8f12ca9d/exercise_3/variant_example/README.md).
 
 Please, check that you don't have any errors.
 
