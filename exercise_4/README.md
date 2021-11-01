@@ -5,7 +5,8 @@
 From previous exercises, you have learned how to: [write SPARQL queries](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_3), [work with natural language](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_1), [extract and link named entities (NER & NEL)](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_1), [predict relations](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_2), and [create a Client-Server (Web Service) application](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_2). However, to create a KGQA system, you have only combine these components. 
 In the figure below, you can see the architecture of QA process from the server (backend) side where just text is given by user via an Webservice API and the resonse (answer) is also text.
 
-![simple-kgqa](https://user-images.githubusercontent.com/16652575/139591569-eea04bd4-4a24-4a19-8877-223173a4d318.jpg)
+![simple-kgqa](https://user-images.githubusercontent.com/16652575/139713961-e065c179-424d-4f28-84ce-88b6127d0414.jpg)
+
 
 Please note, that in this exercise we implement the QA system only for so-called Forward queries (`subject-predicate-?`), however, if you want to do it also for Backward queries (`?-predicate-object`) you have to additionally implement a query type classifier (it is optional).
 
@@ -48,7 +49,7 @@ WHERE {
 
 Prefixes in the queries are omitted.
 
-Get inspired by the Docker example:.
+Get inspired by the Docker example: https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_4/docker_example.
 
 ## Submission check
 
