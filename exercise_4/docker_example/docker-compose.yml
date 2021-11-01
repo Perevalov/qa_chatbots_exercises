@@ -1,0 +1,37 @@
+version: "3"
+services:
+  nel:
+    image: qa_chatbots
+    restart: unless-stopped
+    ports:
+      - $NEL_PORT:80
+    environment:
+      - SERVER_PORT=$NEL_PORT
+      - NAME=$NEL_NAME
+  rel_pred:
+    image: qa_chatbots
+    restart: unless-stopped
+    ports:
+      - $REL_PRED_PORT:80
+    environment:
+      - SERVER_PORT=$REL_PRED_PORT
+      - NAME=$REL_PRED_NAME
+  query_exec:
+    image: qa_chatbots
+    restart: unless-stopped
+    ports:
+      - $QUERY_EXEC_PORT:80
+    environment:
+      - SERVER_PORT=$QUERY_EXEC_PORT
+      - NAME=$QUERY_EXEC_NAME
+  api:
+    image: qa_chatbots
+    restart: unless-stopped
+    ports:
+      - $API_PORT:80
+    environment:
+      - SERVER_PORT=$API_PORT
+      - NEL_NAME=$NEL_NAME
+      - REL_PRED_NAME=$REL_PRED_NAME
+      - QUERY_EXEC_NAME=$QUERY_EXEC_NAME
+      - NAME=$API_NAME
