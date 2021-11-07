@@ -1,0 +1,17 @@
+version: '3'
+services:
+  relation_prediction:
+    restart: unless-stopped
+    image: my-qanary-container
+    container_name: my-relation-prediction
+    ports:
+      - $SERVICE_PORT_1:80
+    environment:
+      - SPRING_BOOT_ADMIN_URL=$SPRING_BOOT_ADMIN_URL
+      - SPRING_BOOT_ADMIN_USERNAME=$SPRING_BOOT_ADMIN_USERNAME
+      - SPRING_BOOT_ADMIN_PASSWORD=$SPRING_BOOT_ADMIN_PASSWORD
+      - SERVICE_HOST=$SERVICE_HOST_1
+      - SERVICE_PORT=$SERVICE_PORT_1
+      - SERVICE_NAME_COMPONENT=$SERVICE_NAME_COMPONENT_1
+      - SERVICE_DESCRIPTION_COMPONENT=$SERVICE_DESCRIPTION_COMPONENT_1
+    command: gunicorn -b :80 example_component:app
