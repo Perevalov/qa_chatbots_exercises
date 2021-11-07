@@ -20,7 +20,7 @@ One can reuse both of the ecosystems in order to implement his/her question answ
 
 ## Task
 
-Integrate the Qanary Framework into your Simple Question Answering system developed in the [previous exercise](). Hence, each of your components has be to wrapped up according to the [example]() s.t., it becomes a Qanary component. Exclude API Gateway from your system, now [Qanary pipeline](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion) will take care of calling the components. Use our [general chatbot frontend]() for testing your system.
+Integrate the Qanary Framework into your Simple Question Answering system developed in the [previous exercise](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_4). Hence, each of your components has be to wrapped up according to the [example](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_5/qanary_example) s.t., it becomes a Qanary component. Exclude API Gateway from your system, now [Qanary pipeline](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion) will take care of calling the components. Use our [general chatbot frontend]() for testing your system.
 
 ### Transforming components to Qanary framework
 
@@ -28,7 +28,7 @@ The components register themselves in the [Qanary pipeline](https://webengineeri
 
 1. Download and unpack [ngrok](https://ngrok.com/download);
 1. Run `./ngrok http YOUR_PORT` in the directory of the ngrok (if you use Windows, check documentation of ngrok);
-1. Use the [the example]() to implement and run your components (hint: please, add your surname to the component's name s.t. it is easy to find them);
+1. Use the [the example](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_5/qanary_example) to implement and run your components (hint: please, add your surname to the component's name s.t. it is easy to find them);
 1. Go to [Qanary Admin panel](http://webengineering.ins.hs-anhalt.de:43740) to see if your components are running:
 ![image](https://user-images.githubusercontent.com/16652575/140662053-c7322282-e219-43db-929c-d0648e541917.png)
 1. If all the components are recognized, move to the next part.
