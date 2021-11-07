@@ -2,7 +2,7 @@
 
 ## Context
 
-Many of the common tasks in Knowledge Graph Question Answering are already solved or have a typical solution. In this regard, to help developers [not to reinvent the wheel](https://dl.acm.org/doi/10.1145/3178876.3186023) -- frameworks come in to play (which is true not only for KGQA but for software engineering in general). There are several frameworks for Question Answering & Chatbots exist, in general, they can be divided in to two types -- low-code frameworks (e.g., [Dialogflow](https://cloud.google.com/dialogflow/docs), [Bot Framework](https://dev.botframework.com/)) and traditional frameworks (e.g., [Rasa](https://rasa.com/), [DeepPavlov](https://deeppavlov.ai/), [Qanary](https://github.com/WDAqua/Qanary)).
+Many of the common tasks in Knowledge Graph Question Answering are already solved or have a typical solution. In this regard, to help developers [not to reinvent the wheel](https://dl.acm.org/doi/10.1145/3178876.3186023) — frameworks come in to play (which is true not only for KGQA but for software engineering in general). There are several frameworks for Question Answering & Chatbots exist, in general, they can be divided in to two types -- low-code frameworks (e.g., [Dialogflow](https://cloud.google.com/dialogflow/docs), [Bot Framework](https://dev.botframework.com/)) and traditional frameworks (e.g., [Rasa](https://rasa.com/), [DeepPavlov](https://deeppavlov.ai/), [Qanary](https://github.com/WDAqua/Qanary)).
 The aforementioned Qanary Framework stands out among the others because of the following reasons: 
 * the framework helps you to facilitate KGQA system with multiple components;
 * each component is implemented as a microservice and agnostic to programming language;
