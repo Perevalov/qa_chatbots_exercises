@@ -30,7 +30,7 @@ The components register themselves in the [Qanary pipeline](https://webengineeri
 1. Run `./ngrok http YOUR_PORT` in the directory of the ngrok (if you use Windows, check documentation of ngrok);
 1. Use the [the example]() to implement and run your components (hint: please, add your surname to the component's name s.t. it is easy to find them);
 1. Go to [Qanary Admin panel](http://webengineering.ins.hs-anhalt.de:43740) to see if your components are running:
-
+![image](https://user-images.githubusercontent.com/16652575/140662053-c7322282-e219-43db-929c-d0648e541917.png)
 1. If all the components are recognized, move to the next part.
 
 ### Asking questions with [Qanary pipeline](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion)
@@ -39,6 +39,7 @@ The components register themselves in the [Qanary pipeline](https://webengineeri
 1. Select the components to be executed and adjust the order by dragging them;
 1. Insert a textual question in the field and click "start Question Answering..."
 1. If everything is good, then you will see the following output, it corresponds to the graph id, where all your execution annotations are stored:
+![image](https://user-images.githubusercontent.com/16652575/140662074-75214be1-87ab-44e9-b097-122988e9f961.png)
 
 
 ### Using general chatbot frontend
@@ -62,3 +63,4 @@ After completion of these two steps, you pass the exercise.
 * Qanary Question Answering Components repository: https://github.com/WDAqua/Qanary-question-answering-components
 * General chatbot frontend: 
 * Create Qanary component using Java: https://github.com/WDAqua/Qanary/wiki/How-do-I-implement-a-new-Qanary-component-using-Java%3F
+* Python Qanary Helpers library: https://github.com/Perevalov/qanary_helpers
