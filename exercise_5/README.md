@@ -84,6 +84,6 @@ After completion of these two steps, you pass the exercise.
 * Qanary wiki: https://github.com/WDAqua/Qanary/wiki
 * Qanary Admin panel: http://webengineering.ins.hs-anhalt.de:43740/#/applications
 * Qanary Question Answering Components repository: https://github.com/WDAqua/Qanary-question-answering-components
-* General chatbot frontend: 
+* General chatbot frontend: https://webengineering.ins.hs-anhalt.de:43712/
 * Create Qanary component using Java: https://github.com/WDAqua/Qanary/wiki/How-do-I-implement-a-new-Qanary-component-using-Java%3F
 * Python Qanary Helpers library: https://github.com/Perevalov/qanary_helpers
