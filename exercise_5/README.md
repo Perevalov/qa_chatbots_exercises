@@ -32,7 +32,7 @@ Integrate the Qanary Framework into your Simple Question Answering system develo
 
 In any component oriented system, you need to make sure that the purpose of a component is clear (cf. your Software Engineering). Hence, in a Qanary system, this is also the first step. 
 
-1. Sketch the components you plan to establish in your system (and give them names).
+1. Sketch the components you plan to establish in your system (and give them names) — use material from the previous exercise.
 2. Define 3 examples of questions for which your system should be capable to provide answers.
 3. For each example, execute the QA process manually (on a sheet of paper or on a whiteboard) and hereby create Qanary annotations to express the information created by each of your components. In the last process, check the following: Are all required information availale to create a query and retrieve the answer? Can the final component (typically: Query Builder) decide if the information is valide, and hence reject false 
 4. Test your system with 3 examples that should not be answered by your QA system (i.e., the system should recognize that the input is not sufficient).
