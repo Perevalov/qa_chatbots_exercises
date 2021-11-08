@@ -16,7 +16,7 @@ The Qanary framework has two major sub-systems:
 1. [Qanary pipeline](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion), and 
 2. [Qanary components](https://github.com/WDAqua/Qanary-question-answering-components). 
  
-The first one serves a similar to [API gateway](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices) function which is to execute components with certain parameters in a certain order. The second sub-systems is actually a set of components that were developed and deployed by the Qanary community (note: be aware that this is just an open collection, there might be many more components out there).
+The first one serves a similar to [API gateway](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices) function which is to execute components with certain parameters in a certain order. The second sub-system is actually a set of components that were developed and deployed by the Qanary community (note: be aware that this is just an open collection, there might be many more components out there).
 One can reuse both of the ecosystems in order to implement his/her question answering system.
 
 ## Learning Objectives
