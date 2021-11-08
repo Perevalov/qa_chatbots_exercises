@@ -1,9 +1,12 @@
 version: '3'
 services:
-  relation_prediction:
+  test_component:
     restart: unless-stopped
     image: my-qanary-container
-    container_name: my-relation-prediction
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: $SERVICE_NAME_COMPONENT_1
     ports:
       - $SERVICE_PORT_1:80
     environment:

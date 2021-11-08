@@ -2,7 +2,7 @@
 
 ## Context
 
-Many of the common tasks in Knowledge Graph Question Answering are already solved or have a typical solution. In this regard, to help developers [not to reinvent the wheel](https://dl.acm.org/doi/10.1145/3178876.3186023) — frameworks come in to play (which is true not only for KGQA but for software engineering in general). There exist several frameworks for Question Answering & Chatbots. In general, they can be divided in to two types -- low-code frameworks (e.g., [Dialogflow](https://cloud.google.com/dialogflow/docs), [Bot Framework](https://dev.botframework.com/)), and traditional frameworks (e.g., [Rasa](https://rasa.com/), [DeepPavlov](https://deeppavlov.ai/), [Qanary](https://github.com/WDAqua/Qanary)).
+Many of the common tasks in Knowledge Graph Question Answering are already solved or have a typical solution. In this regard, to help developers [not to reinvent the wheel](https://dl.acm.org/doi/10.1145/3178876.3186023) — frameworks come in to play (which is true not only for KGQA but for software engineering in general). There exist several frameworks for Question Answering & Chatbots. In general, they can be divided in to two types — low-code frameworks (e.g., [Dialogflow](https://cloud.google.com/dialogflow/docs), [Bot Framework](https://dev.botframework.com/)), and traditional frameworks (e.g., [Rasa](https://rasa.com/), [DeepPavlov](https://deeppavlov.ai/), [Qanary](https://github.com/WDAqua/Qanary)).
 The aforementioned Qanary Framework stands out among the others because of the following reasons: 
 
 * the framework helps you to facilitate KGQA system with multiple independent components;
@@ -26,7 +26,7 @@ One can reuse both of the ecosystems in order to implement his/her question answ
 
 ## Task
 
-Integrate the Qanary Framework into your Simple Question Answering system developed in the [previous exercise](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_4). Hence, each of your components has be to wrapped up according to the [example](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_5/qanary_example), s.t., it becomes a Qanary component. Exclude API Gateway from your system, now [Qanary pipeline](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion) will take care of calling the components. Use our [general chatbot frontend]() for testing your system.
+Integrate the Qanary Framework into your Simple Question Answering system developed in the [previous exercise](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_4). Hence, each of your components has be to wrapped up according to the [example](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_5/qanary_example), s.t., it becomes a Qanary component. Exclude API Gateway from your system, now [Qanary pipeline](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion) will take care of calling the components. Use our [general chatbot frontend](https://webengineering.ins.hs-anhalt.de:43712/) for testing your system.
 
 ### Sketch a component-oriented solution
 
@@ -50,6 +50,8 @@ In a Qanary system, the components are independent and run in a standalone proce
 ![image](https://user-images.githubusercontent.com/16652575/140662053-c7322282-e219-43db-929c-d0648e541917.png)
 1. If all the components are recognized, move to the next part.
 
+NOTE: adjust the functionality of your SPARQL Generator/Executor as follows — the component just generates the query and stores it in the triplestore (see [the example](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_5/qanary_example) for this).
+
 ### Asking questions with [Qanary pipeline](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion)
 
 1. Navigate to the [Qanary pipeline](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion);
@@ -61,7 +63,9 @@ In a Qanary system, the components are independent and run in a standalone proce
 
 ### Using general chatbot frontend
 
-1. Navigate to the [general chatbot frontend]()
+1. Navigate to the [general chatbot frontend](https://webengineering.ins.hs-anhalt.de:43712/)
+1. Open settings modal window, and put there your components in the corresponding execution order, at the end put SparqlExecutor:
+1. Ask any question to the chatbot and see the answer:
 
 
 ## Submission check

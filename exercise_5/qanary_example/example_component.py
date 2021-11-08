@@ -29,27 +29,42 @@ def qanary_service():
     # Start TODO: configure your business logic here and adjust the sparql query
     # if you want to get the question text from the triplestore, you can use the following query: 
     # query_triplestore(triplestore_endpoint_url, your_sparql_query)
-    result = "Hello World"
-
+    
+    # here we simulate that our component created this sparql query:
+    sparql_query = """
+        PREFIX dbr: <http://dbpedia.org/resource/>
+        PREFIX dbo: <http://dbpedia.org/ontology/>
+        SELECT * WHERE {
+        dbr:Angela_Merkel dbo:birthPlace ?uri .
+        }
+    """
+    # and this "generated" query is stored in the triplestore with this INSERT query:
     SPARQLquery = """
+                    PREFIX dbr: <http://dbpedia.org/resource/>
+                    PREFIX dbo: <http://dbpedia.org/ontology/>
                     PREFIX qa: <http://www.wdaqua.eu/qa#>
                     PREFIX oa: <http://www.w3.org/ns/openannotation/core/>
-                    PREFIX dbo: <http://dbpedia.org/ontology/>
+                    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+                    PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
                     INSERT {{
                     GRAPH <{uuid}> {{
-                        ?a oa:annotationText "{annotation_text}" .
-                        ?a oa:annotatedBy <urn:qanary:{component}> .
-                        ?a oa:annotatedAt ?time .
+                        ?newAnnotation rdf:type qa:AnnotationOfAnswerSPARQL .
+                        ?newAnnotation oa:hasTarget <{question_uri}> .
+                        ?newAnnotation oa:hasBody \"{sparql_query}\"^^xsd:string .
+                        ?newAnnotation qa:score \"1.0\"^^xsd:float .
+                        ?newAnnotation oa:annotatedAt ?time .
+                        ?newAnnotation oa:annotatedBy <urn:qanary:{component}> .
                         }}
                     }}
                     WHERE {{
-                        BIND (IRI(str(RAND())) AS ?a) .
+                        BIND (IRI(str(RAND())) AS ?newAnnotation) .
                         BIND (now() as ?time) 
                     }}
                 """.format(
                     uuid=triplestore_ingraph_uuid,
+                    question_uri=triplestore_endpoint_url,
                     component=SERVICE_NAME_COMPONENT.replace(" ", "-"),
-                    annotation_text=result)
+                    sparql_query=sparql_query.replace("\n", "\\n").replace("\"", "\\\""))
 
     insert_into_triplestore(triplestore_endpoint_url,
                             SPARQLquery)  # inserting new data to the triplestore
