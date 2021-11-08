@@ -1,4 +1,4 @@
-# Qanary Framework
+# Exercise 5: Qanary Framework
 
 ## Context
 
