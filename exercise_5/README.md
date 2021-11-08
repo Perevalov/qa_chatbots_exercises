@@ -65,7 +65,9 @@ NOTE: adjust the functionality of your SPARQL Generator/Executor as follows — 
 
 1. Navigate to the [general chatbot frontend](https://webengineering.ins.hs-anhalt.de:43712/)
 1. Open settings modal window, and put there your components in the corresponding execution order, at the end put SparqlExecutor:
-1. Ask any question to the chatbot and see the answer:
+![image](https://user-images.githubusercontent.com/16652575/140775649-a74dd3a2-02ad-4af3-953b-0a6ae2efaf49.png)
+1. Ask any question that is supported by your system via the frontend and see the answer:
+![image](https://user-images.githubusercontent.com/16652575/140775858-b937a371-4ed4-40d9-bb15-f2e5ebb9b475.png)
 
 
 ## Submission check
