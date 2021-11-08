@@ -41,7 +41,7 @@ Note: This process was also done in the lecture.
 
 ### Transforming components to Qanary framework
 
-In a Qanary system, the components are independent and run in a standalone process. They register themselves in the Qanary pipeline (and can be [activated](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion)]. To do this, the pipeline needs to "see" your components, so if you don't have external IP address of your PC, you probably need such tool as [ngrok](https://ngrok.com/download) to expose the corresponding ports to the internet.
+In a Qanary system, the components are independent and run in a standalone process. They register themselves in the Qanary pipeline (and can be [activated](https://webengineering.ins.hs-anhalt.de:43740/startquestionansweringwithtextquestion). To do this, the pipeline needs to "see" your components, so if you don't have external IP address of your PC, you probably need such tool as [ngrok](https://ngrok.com/download) to expose the corresponding ports to the internet.
 
 1. Download and unpack [ngrok](https://ngrok.com/download);
 1. Run `./ngrok http YOUR_PORT` in the directory of the ngrok (if you use Windows, check documentation of ngrok);
@@ -59,6 +59,7 @@ NOTE: adjust the functionality of your SPARQL Generator/Executor as follows — 
 1. Insert a textual question in the field and click "start Question Answering..."
 1. If everything is good, then you will see the following output, it corresponds to the graph id, where all your execution annotations are stored:
 ![image](https://user-images.githubusercontent.com/16652575/140662074-75214be1-87ab-44e9-b097-122988e9f961.png)
+1. Check the console of your components, there should be no errors.
 
 
 ### Using general chatbot frontend
