@@ -1,4 +1,4 @@
-# Exercise 6: Quality Measurment
+# Exercise 6: Quality Measurement
 
 ## Context
 
