@@ -1,4 +1,4 @@
-# Exercise 6: Quality Measurement
+# Exercise 6: Evaluation in Question Answering over Knowledge Graphs
 
 ## Context
 
@@ -50,7 +50,7 @@ Please, refer to [this document](https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
 ### Optional Part (for creativity)
 
 * Create visualizations based on your .csv report;
-* Create a set of questions to a user of your system s.t. it is possible to evaluate his/her experience.
+* Propose a set of metrics to quantify user utility of your system s.t. it is possible to evaluate the user "happiness".
 
 ## Guidance / Tutorials
 
