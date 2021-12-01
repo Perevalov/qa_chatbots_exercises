@@ -36,7 +36,7 @@ As always, the truth is somewhere in between. That is why in this exercise we wi
 ### General formulation
 
 The task is to answer questions from [Exercise 4](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_4) using both structured and unstructured data. To do so, you have to implement a QA process with Qanary framework that does the following steps:
-1. Determines a named entity that is mentione in a question ([Named Entity Linking](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_1))
+1. Determines a named entity that is mentioned in a question ([Named Entity Linking](https://github.com/Perevalov/qa_chatbots_exercises/tree/main/exercise_1))
 2. Retrieves an abstract (short textual description) of the named entity (used `dbo:abstract` property) -- retriever step;
 3. Finds a textual span in the retrieved abstract and returns this as an answer (use [RoBERTa-For-QA](https://webengineering.ins.hs-anhalt.de:43740/#/applications/RoBERTa-For-QA) Qanary component) -- reader step.
 
