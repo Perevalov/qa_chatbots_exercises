@@ -1,0 +1,4 @@
+qanary_helpers
+flask
+transformers
+tensorflow
